@@ -1,0 +1,13 @@
+{
+  "kind" : "minorhealingpotion",
+  "duration" : 0.05,
+  "primitives" : [
+    {
+      "name" : "Health",
+      "mode" : "max", //don't stack
+      "amount" : 10.8
+    }
+  ],
+  "effectSources" : [ "minorhealingpotion" ],
+  "mainInterfaceIcon" : "/interface/statuses/heal.png"
+}

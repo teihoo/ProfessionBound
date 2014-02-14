@@ -1,0 +1,9 @@
+{
+  "itemName" : "white-dye",
+  "rarity" : "Common",
+  "category" : "Dye",
+  "race" : "generic",
+  "inventoryIcon" : "white-dye.png",
+  "description" : "A white dye.",
+  "shortdescription" : "White Dye"
+}

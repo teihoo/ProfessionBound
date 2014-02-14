@@ -1,0 +1,9 @@
+{
+  "itemName" : "amber-dye",
+  "rarity" : "uncommon",
+  "category" : "Dye",
+  "race" : "generic",
+  "inventoryIcon" : "amber-dye.png",
+  "description" : "A amber dye.",
+  "shortdescription" : "Amber Dye"
+}

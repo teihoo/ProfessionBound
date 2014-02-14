@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 4 }
+  ],
+  "output" : {
+    "item" : "linenbandage",
+    "count" : 1
+  },
+  "groups" : [ "bandages" ]
+}

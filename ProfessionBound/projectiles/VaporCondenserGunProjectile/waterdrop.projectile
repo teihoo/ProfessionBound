@@ -1,0 +1,17 @@
+{
+  "projectileName" : "waterdrop",
+  "physics" : "grenade",
+  "frames" : "waterdrop.png",
+  "level" : 1,
+  "energyCostPerDamagePoint" : 35,
+  "animationCycle" : 0.5,
+  "frameNumber" : 2,
+  "damageKindImage" : "ammoType.png",
+  "actionOnReap" : [ 
+  { 
+  "action" : "liquid", "liquidId" : 1, "quantity" : 1000 
+  }
+  ],
+  "power" : 0.5,
+  "damageKind" : "default"
+}

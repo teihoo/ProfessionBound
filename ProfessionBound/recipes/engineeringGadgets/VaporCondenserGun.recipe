@@ -1,0 +1,10 @@
+{
+"input" : [{ "item" : "money", "count" : 800}, 
+	{ "item" : "copperbar", "count" : 5},
+	{ "item" : "steelbar", "count" : 5},
+	{ "item" : "goldbar", "count" : 3},
+	{ "item" : "waterrune", "count" : 3}
+	],
+"output" : { "item" : "VaporCondenserGun", "count" : 1 },
+"groups" : [ "gadgets" ]
+}

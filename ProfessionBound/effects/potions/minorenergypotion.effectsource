@@ -1,0 +1,26 @@
+{
+  "kind" : "minorenergypotion",
+  "definition" : {
+    "duration" : 0.05,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "minorenergypotionmmsg" ]
+      ],
+      "sounds" : [
+        [ "/sfx/statuseffects/powerup.wav" ]
+      ]
+    },
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "basicMonsterTreasure4" : [
+    [1, {
+        "pool" : [
+		  [0.05, [ "yellowpowder", 1 ] ],
+		  [0.06, [ "waterrune", 1 ] ],
+		  [0.06, [ "firerune", 1 ] ],
+		  [0.04, [ "small_Fluorite", 1 ] ]
+        ],
+        "poolRounds" : [
+          [0.23, 0],
+          [0.18, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [2, {
+        "pool" : [
+		  [0.05, [ "yellowpowder", 1 ] ],
+		  [0.06, [ "waterrune", 1 ] ],
+		  [0.06, [ "firerune", 1 ] ],
+		  [0.04, [ "small_Fluorite", 1 ] ]
+        ],
+        "poolRounds" : [
+          [0.23, 0],
+          [0.18, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [3, {
+        "pool" : [
+		  [0.05, [ "yellowpowder", 1 ] ],
+		  [0.06, [ "waterrune", 1 ] ],
+		  [0.06, [ "firerune", 1 ] ],
+		  [0.04, [ "small_Fluorite", 1 ] ]
+        ],
+        "poolRounds" : [
+          [0.23, 0],
+          [0.18, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [4, {
+        "pool" : [
+		  [0.05, [ "yellowpowder", 1 ] ],
+		  [0.06, [ "waterrune", 1 ] ],
+		  [0.06, [ "firerune", 1 ] ],
+		  [0.04, [ "small_Fluorite", 1 ] ]
+        ],
+        "poolRounds" : [
+          [0.23, 0],
+          [0.18, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [5, {
+        "pool" : [
+		  [0.05, [ "yellowpowder", 1 ] ],
+		  [0.06, [ "waterrune", 1 ] ],
+		  [0.06, [ "firerune", 1 ] ],
+		  [0.04, [ "small_Fluorite", 1 ] ]
+        ],
+        "poolRounds" : [
+          [0.23, 0],
+          [0.18, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [6, {
+        "pool" : [
+		  [0.05, [ "yellowpowder", 1 ] ],
+		  [0.06, [ "waterrune", 1 ] ],
+		  [0.06, [ "firerune", 1 ] ],
+		  [0.04, [ "small_Fluorite", 1 ] ]
+        ],
+        "poolRounds" : [
+          [0.23, 0],
+          [0.18, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [7, {
+        "pool" : [
+		  [0.05, [ "yellowpowder", 1 ] ],
+		  [0.06, [ "waterrune", 1 ] ],
+		  [0.06, [ "firerune", 1 ] ],
+		  [0.05, [ "small_Fluorite", 1 ] ]
+        ],
+        "poolRounds" : [
+          [0.23, 0],
+          [0.18, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [8, {
+        "pool" : [
+		  [0.05, [ "yellowpowder", 1 ] ],
+		  [0.06, [ "waterrune", 1 ] ],
+		  [0.06, [ "firerune", 1 ] ],
+		  [0.05, [ "small_Fluorite", 1 ] ]
+        ],
+        "poolRounds" : [
+          [0.23, 0],
+          [0.18, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [9, {
+        "pool" : [
+
+		  [0.06, [ "yellowpowder", 1 ] ],
+		  [0.06, [ "waterrune", 1 ] ],
+		  [0.06, [ "firerune", 1 ] ],
+		  [0.05, [ "small_Fluorite", 1 ] ]
+        ],
+        "poolRounds" : [
+          [0.23, 0],
+          [0.18, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [10, {
+        "pool" : [
+		  [0.06, [ "yellowpowder", 1 ] ],
+		  [0.06, [ "waterrune", 1 ] ],
+		  [0.06, [ "firerune", 1 ] ],
+		  [0.06, [ "small_Fluorite", 1 ] ]
+        ],
+        "poolRounds" : [
+          [0.23, 0],
+          [0.18, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ]
+}

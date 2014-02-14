@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "minorhealingpotion", "count" : 1 },
+	{ "item" : "minorenergypotion", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "smallmedkit",
+    "count" : 1
+  },
+  "groups" : [ "medkits" ]
+}

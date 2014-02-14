@@ -1,0 +1,9 @@
+{
+  "itemName" : "philosopherstone",
+  "rarity" : "legendary",
+  "category" : "Dye",
+  "race" : "generic",
+  "inventoryIcon" : "philosopherstone.png",
+  "description" : "This is required for transmute recipes.",
+  "shortdescription" : "Philosopher Stone"
+}

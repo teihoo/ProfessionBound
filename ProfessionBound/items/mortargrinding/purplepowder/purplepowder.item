@@ -1,0 +1,9 @@
+{
+  "itemName" : "purplepowder",
+  "rarity" : "uncommon",
+  "category" : "Mortar Grinding",
+  "race" : "generic",
+  "inventoryIcon" : "purplepowder.png",
+  "description" : "A mystical powder, this might be useful stuff for crafting.",
+  "shortdescription" : "Purple Powder"
+}

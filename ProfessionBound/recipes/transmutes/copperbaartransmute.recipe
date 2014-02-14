@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "philosopherstone", "count" : 5 },
+	{ "item" : "coalore", "count" : 2 },
+	{ "item" : "dirtmaterial", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "copperbar",
+    "count" : 5
+  },
+  "groups" : [ "transmutes" ]
+}

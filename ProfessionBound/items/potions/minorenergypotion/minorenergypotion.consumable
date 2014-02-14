@@ -1,0 +1,15 @@
+{
+  "itemName" : "minorenergypotion",
+  "rarity" : "common",
+  "level" : 1,
+  "inventoryIcon" : "minorenergypotionicon.png",
+  "description" : "Restores 10.6 energy.",
+  "shortdescription" : "Minor Energy Potion",
+  "effects" : [ [
+      {
+        "kind" : "minorenergypotion"
+      }
+    ] ],
+  "emote" : "Oh",
+  "emitters" : [ "minorenergypotion" ]
+}

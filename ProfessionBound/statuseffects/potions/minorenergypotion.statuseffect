@@ -1,0 +1,13 @@
+{
+  "kind" : "minorenergypotion",
+  "duration" : 0.05,
+  "primitives" : [
+    {
+      "name" : "energy",
+      "mode" : "max", //don't stack
+      "amount" : 10.8
+    }
+  ],
+  "effectSources" : [ "minorenergypotion" ],
+  "mainInterfaceIcon" : "/interface/statuses/energy.png"
+}

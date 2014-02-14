@@ -1,0 +1,12 @@
+{
+    "name": "ProfessionBound",
+    "version": "Beta v. Furious Koala",
+    "path": ".",
+    "dependencies": [],
+    "metadata": {
+        "author": "Armed Mosquito",
+		"pixelartist": "Armed Mosquito, Ninja-Max",
+        "modversion": "0.0.3alpha",
+        "support-url": "http://ProfBound.anvilgaming.org/changelog.php"
+    }
+}

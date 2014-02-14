@@ -1,0 +1,9 @@
+{
+  "itemName" : "rainbow-dye",
+  "rarity" : "legendary",
+  "category" : "Dye",
+  "race" : "generic",
+  "inventoryIcon" : "rainbow-dye.png",
+  "description" : "A rainbow dye.",
+  "shortdescription" : "Rainbow Dye"
+}

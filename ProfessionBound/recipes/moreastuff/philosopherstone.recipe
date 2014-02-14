@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "cobblestonematerial", "count" : 250 },
+	{ "item" : "Rubiumore", "count" : 250 },
+	{ "item" : "diamond", "count" : 1 }
+  ],
+  "output" : { "item" : "philosopherstone", "count" : 325 },
+  "groups" : [ "transmutes" ]
+}

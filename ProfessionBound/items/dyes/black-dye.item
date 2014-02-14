@@ -1,0 +1,9 @@
+{
+  "itemName" : "black-dye",
+  "rarity" : "Common",
+  "category" : "Dye",
+  "race" : "generic",
+  "inventoryIcon" : "black-dye.png",
+  "description" : "A black dye.",
+  "shortdescription" : "Black Dye"
+}
