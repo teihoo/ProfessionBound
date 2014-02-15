@@ -1,0 +1,37 @@
+{
+  "objectName" : "LeathercraftingStation",
+  "printable" : false,
+  "rarity" : "uncommon",
+  "objectType" : "interactable",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/EngineeringStation.config",
+    "filter" : [ "guns", "gadgets", "explosives", "runecrafting-es", "salvage-es", "engineeringingredient" ]
+  },
+  "description" : "Create things beyond this cosmos and the next with this table!",
+  "shortdescription" : "Leathercrafting Station",
+  "race" : "generic",
+  "category" : "crafting",
+
+  "apexDescription" : "Leathercrafting Station, create many things! Early alpha table!",
+  "avianDescription" : "Leathercrafting Station, create many things! Early alpha table!",
+  "floranDescription" : "Leathercrafting Station, create many things! Early alpha table!",
+  "glitchDescription" : "Leathercrafting Station, create many things! Early alpha table!",
+  "humanDescription" : "Leathercrafting Station, create many things! Early alpha table!",
+  "hylotlDescription" : "Leathercrafting Station, create many things! Early alpha table!",
+
+  "inventoryIcon" : "EngineeringStationicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "EngineeringStation.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

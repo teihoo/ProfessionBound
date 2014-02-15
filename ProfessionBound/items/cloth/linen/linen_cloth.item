@@ -1,0 +1,9 @@
+{
+  "itemName" : "linen_cloth",
+  "rarity" : "uncommon",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "linen_cloth.png",
+  "description" : "Linen Cloth. Made from plant fibre.",
+  "shortdescription" : "Linen Cloth"
+}

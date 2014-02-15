@@ -1,0 +1,9 @@
+{
+  "objectName" : "guam_herb",
+  "rarity" : "uncommon",
+  "category" : "Herbs",
+  "description" : "Guam Herb.",
+  "shortdescription" : "Guam Herb",
+  "objectType" : "farmable",
+  "printable" : false
+}
