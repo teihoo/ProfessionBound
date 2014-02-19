@@ -5,10 +5,10 @@
   "objectType" : "interactable",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/EngineeringStation.config",
-    "filter" : [ "guns", "gadgets", "explosives", "runecrafting-es", "salvage-es", "engineeringingredient" ]
+    "config" : "/interface/windowconfig/LeathercraftingStation.config",
+    "filter" : [ "lwmats", "lwcapes", "lwarmor", "lwmorestuff" ]
   },
-  "description" : "Create things beyond this cosmos and the next with this table!",
+  "description" : "Craft leather materials, ",
   "shortdescription" : "Leathercrafting Station",
   "race" : "generic",
   "category" : "crafting",
@@ -20,10 +20,10 @@
   "humanDescription" : "Leathercrafting Station, create many things! Early alpha table!",
   "hylotlDescription" : "Leathercrafting Station, create many things! Early alpha table!",
 
-  "inventoryIcon" : "EngineeringStationicon.png",
+  "inventoryIcon" : "LeathercraftingStationicon.png",
   "orientations" : [
     {
-      "dualImage" : "EngineeringStation.png:<color>",
+      "dualImage" : "LeathercraftingStation.png:<color>",
 
       "imagePosition" : [-16, 0],
       "frames" : 1,

@@ -5,7 +5,11 @@
 		  [0.05, [ "blackpowder", 1 ] ],
 		  [0.06, [ "waterrune", 1 ] ],
 		  [0.06, [ "firerune", 1 ] ],
-		  [0.04, [ "small_Sapphire", 1 ] ]
+		  [0.04, [ "small_Sapphire", 1 ] ],
+		  [0.36, [ "money", 10] ],
+          [0.36, [ "money", 10] ],
+          [0.18, [ "money", 25] ],
+          [0.10, [ "alienmeat" ] ]
         ],
         "poolRounds" : [
           [0.23, 0],
@@ -19,7 +23,12 @@
 		  [0.05, [ "blackpowder", 1 ] ],
 		  [0.06, [ "waterrune", 1 ] ],
 		  [0.06, [ "firerune", 1 ] ],
-		  [0.04, [ "small_Sapphire", 1 ] ]
+		  [0.04, [ "small_Sapphire", 1 ] ],
+		  [0.36, [ "money", 10] ],
+          [0.36, [ "money", 60] ],
+          [0.18, [ "money", 75] ],
+          [0.10, [ "cellmateria", 1] ],
+          [0.10, [ "monsterplating", 1] ]
         ],
         "poolRounds" : [
           [0.23, 0],
@@ -33,7 +42,12 @@
 		  [0.05, [ "blackpowder", 1 ] ],
 		  [0.06, [ "waterrune", 1 ] ],
 		  [0.06, [ "firerune", 1 ] ],
-		  [0.04, [ "small_Sapphire", 1 ] ]
+		  [0.04, [ "small_Sapphire", 1 ] ],
+		  [0.36, [ "money", 10] ],
+          [0.36, [ "money", 110] ],
+          [0.18, [ "money", 125] ],
+          [0.10, [ "cellmateria", 1] ],
+          [0.10, [ "monsterplating", 1] ]
         ],
         "poolRounds" : [
           [0.23, 0],
@@ -47,7 +61,12 @@
 		  [0.05, [ "blackpowder", 1 ] ],
 		  [0.06, [ "waterrune", 1 ] ],
 		  [0.06, [ "firerune", 1 ] ],
-		  [0.04, [ "small_Sapphire", 1 ] ]
+		  [0.04, [ "small_Sapphire", 1 ] ],
+		  [0.36, [ "money", 10] ],
+          [0.36, [ "money", 160] ],
+          [0.18, [ "money", 175] ],
+          [0.10, [ "cellmateria", 1] ],
+          [0.10, [ "monsterplating", 1] ]
         ],
         "poolRounds" : [
           [0.23, 0],
@@ -61,7 +80,12 @@
 		  [0.05, [ "blackpowder", 1 ] ],
 		  [0.06, [ "waterrune", 1 ] ],
 		  [0.06, [ "firerune", 1 ] ],
-		  [0.04, [ "small_Sapphire", 1 ] ]
+		  [0.04, [ "small_Sapphire", 1 ] ],
+		  [0.36, [ "money", 10] ],
+          [0.36, [ "money", 165] ],
+          [0.18, [ "money", 180] ],
+          [0.10, [ "cellmateria", 1] ],
+          [0.10, [ "monsterplating", 1] ]
         ],
         "poolRounds" : [
           [0.23, 0],
@@ -75,7 +99,12 @@
 		  [0.05, [ "blackpowder", 1 ] ],
 		  [0.06, [ "waterrune", 1 ] ],
 		  [0.06, [ "firerune", 1 ] ],
-		  [0.05, [ "small_Sapphire", 1 ] ]
+		  [0.05, [ "small_Sapphire", 1 ] ],
+		  [0.36, [ "money", 10] ],
+          [0.36, [ "money", 170] ],
+          [0.18, [ "money", 185] ],
+          [0.10, [ "cellmateria", 1] ],
+          [0.10, [ "monsterplating", 1] ]
         ],
         "poolRounds" : [
           [0.23, 0],
@@ -89,7 +118,12 @@
 		  [0.05, [ "blackpowder", 1 ] ],
 		  [0.06, [ "waterrune", 1 ] ],
 		  [0.06, [ "firerune", 1 ] ],
-		  [0.05, [ "small_Sapphire", 1 ] ]
+		  [0.05, [ "small_Sapphire", 1 ] ],
+		  [0.36, [ "money", 10] ],
+          [0.36, [ "money", 175] ],
+          [0.18, [ "money", 185] ],
+          [0.10, [ "cellmateria", 1] ],
+          [0.10, [ "monsterplating", 1] ]
         ],
         "poolRounds" : [
           [0.23, 0],
@@ -103,7 +137,12 @@
 		  [0.05, [ "blackpowder", 1 ] ],
 		  [0.06, [ "waterrune", 1 ] ],
 		  [0.06, [ "firerune", 1 ] ],
-		  [0.05, [ "small_Sapphire", 1 ] ]
+		  [0.05, [ "small_Sapphire", 1 ] ],
+		  [0.36, [ "money", 10] ],
+          [0.36, [ "money", 180] ],
+          [0.18, [ "money", 190] ],
+          [0.10, [ "cellmateria", 1] ],
+          [0.10, [ "monsterplating", 1] ]
         ],
         "poolRounds" : [
           [0.23, 0],
@@ -117,7 +156,12 @@
 		  [0.06, [ "blackpowder", 1 ] ],
 		  [0.06, [ "waterrune", 1 ] ],
 		  [0.06, [ "firerune", 1 ] ],
-		  [0.05, [ "small_Sapphire", 1 ] ]
+		  [0.05, [ "small_Sapphire", 1 ] ],
+		  [0.36, [ "money", 10] ],
+          [0.36, [ "money", 185] ],
+          [0.18, [ "money", 195] ],
+          [0.10, [ "cellmateria", 1] ],
+          [0.10, [ "monsterplating", 1] ]
         ],
         "poolRounds" : [
           [0.23, 0],
@@ -131,7 +175,12 @@
 		  [0.06, [ "blackpowder", 1 ] ],
 		  [0.06, [ "waterrune", 1 ] ],
 		  [0.06, [ "firerune", 1 ] ],
-		  [0.05, [ "small_Sapphire", 1 ] ]
+		  [0.05, [ "small_Sapphire", 1 ] ],
+		  [0.36, [ "money", 10] ],
+          [0.36, [ "money", 190] ],
+          [0.18, [ "money", 200] ],
+          [0.10, [ "cellmateria", 1] ],
+          [0.10, [ "monsterplating", 1] ]
         ],
         "poolRounds" : [
           [0.23, 0],

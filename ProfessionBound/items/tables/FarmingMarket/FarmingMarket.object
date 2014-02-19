@@ -1,0 +1,37 @@
+{
+  "objectName" : "FarmingMarket",
+  "printable" : false,
+  "rarity" : "uncommon",
+  "objectType" : "interactable",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/FarmingMarket.config",
+    "filter" : [ "farmingtools", "fmseeds", "otherfarmingstuff" ]
+  },
+  "description" : "Buy farming tools, seeds, and some other stuff!",
+  "shortdescription" : "Farming Market Stall",
+  "race" : "generic",
+  "category" : "crafting",
+
+  "apexDescription" : "Farming Market Stall, grow many things! Early alpha table!",
+  "avianDescription" : "Farming Market Stall, grow many things! Early alpha table!",
+  "floranDescription" : "Farming Market Stall, grow many things! Early alpha table!",
+  "glitchDescription" : "Farming Market Stall, grow many things! Early alpha table!",
+  "humanDescription" : "Farming Market Stall, grow many things! Early alpha table!",
+  "hylotlDescription" : "Farming Market Stall, grow many things! Early alpha table!",
+
+  "inventoryIcon" : "FarmingMarketicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "FarmingMarket.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

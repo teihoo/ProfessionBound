@@ -1,23 +1,16 @@
 {
-  "objectName" : "guamseed",
-  "rarity" : "uncommon",
-  "category" : "Farmable Herb",
+  "objectName" : "bluemelonseed",
+  "rarity" : "common",
+  "category" : "Farmable",
   "description" : "Guam Seed, this will grow a herb.",
   "shortdescription" : "Guam Seed",
-  "objectType" : "farmable",
+  "objectType" : "Consumable",
   "printable" : false,
 
-  "apexDescription" : "The kiwi's fur feels similar to that of an Apex.",
-  "avianDescription" : "A weird fuzzy fruit, filled with delicious seeds.",
-  "floranDescription" : "Furry squassshy creature-fruit.",
-  "glitchDescription" : "Observation. It is remarkable how many foods resemble those who eat them.",
-  "humanDescription" : "Kiwis. Delicious and messy.",
-  "hylotlDescription" : "Another overly-sweet fruit. The surface is unpleasant to touch.",
-
-  "inventoryIcon" : "guamseedicon.png",
+  "inventoryIcon" : "bluemelonseedicon.png",
   "orientations" : [
     {
-      "dualImage" : "guamseed.png:<color>.<stage>.<alt>",
+      "dualImage" : "bluemelonseed.png:<color>.<stage>.<alt>",
       "imagePosition" : [0, 0],
       "frames" : 1,
       "animationCycle" : 0.5,
@@ -39,7 +32,7 @@
             "count" : 1
           },
           {
-            "name" : "kiwiseed",
+            "name" : "bluemelonseed",
             "count" : 1
           }
         ],

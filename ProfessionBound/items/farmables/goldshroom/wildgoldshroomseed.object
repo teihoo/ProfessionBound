@@ -1,21 +1,14 @@
 {
-  "objectName" : "wildguamseed",
+  "objectName" : "wildgoldshroomseed",
   "rarity" : "uncommon",
-  "category" : "Farmable Herb",
+  "category" : "Farmable",
   "description" : "Guam Seed, this will grow a herb.",
   "shortdescription" : "Guam Seed",
-  "objectType" : "farmable",
+  "objectType" : "Herb",
   "printable" : false,
-  "objectItem" : "guamseed",
+  "objectItem" : "wildgoldshroomseed",
 
-  "apexDescription" : "The kiwi's fur feels similar to that of an Apex.",
-  "avianDescription" : "A weird fuzzy fruit, filled with delicious seeds.",
-  "floranDescription" : "Furry squassshy creature-fruit.",
-  "glitchDescription" : "Observation. It is remarkable how many foods resemble those who eat them.",
-  "humanDescription" : "Kiwis. Delicious and messy.",
-  "hylotlDescription" : "Another overly-sweet fruit. The surface is unpleasant to touch.",
-
-  "inventoryIcon" : "guamseedicon.png",
+  "inventoryIcon" : "goldshroomseedicon.png",
   "orientations" : [
     {
       "dualImage" : "guamseed.png:<color>.<stage>.<alt>",
@@ -40,7 +33,7 @@
             "count" : 1
           },
           {
-            "name" : "guamseed",
+            "name" : "goldshroomseed",
             "count" : 1
           }
         ],
