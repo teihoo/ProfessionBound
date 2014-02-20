@@ -6,7 +6,7 @@
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/interface/windowconfig/EngineeringStation.config",
-    "filter" : [ "guns", "gadgets", "explosives", "runecrafting-es", "salvage-es", "engineeringingredient" ]
+    "filter" : [ "guns", "gadgets", "esexplosives", "runecrafting-es", "salvage-es", "engineeringingredient" ]
   },
   "description" : "Create things beyond this cosmos and the next with this table!",
   "shortdescription" : "Engineering Station",

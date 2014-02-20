@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "steelbar", "count" : 3 },
+	{ "item" : "darkwoodmaterial", "count" : 1 }
+  ],
+  "output" : { "item" : "hoetool", "count" : 1 },
+  "groups" : [ "farmingtools" ]
+}
