@@ -1,0 +1,11 @@
+{
+  "kind" : "elixirofthefays",
+  "duration" : 18,
+  "primitives" : [
+    { "name" : "glide", "mode" : "min", "amount" : -0.2 },
+	{ "name" : "jumpboost", "mode" : "min", "amount" : -0.4 },
+	{ "name" : "reducefalldamage", "mode" : "max" }
+  ],
+  "effectSources" : [ "jumpboost" ],
+  "mainInterfaceIcon" : "/interface/wind.png"
+}

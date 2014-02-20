@@ -1,0 +1,12 @@
+{
+  "kind" : "elixirofwaterbreathing",
+  "duration" : 45,
+  "primitives" : [
+    {
+      "name" : "breathprotection",
+      "mode" : "max"
+    }
+  ],
+  "effectSources" : [ "stimbreath" ],
+  "mainInterfaceIcon" : "/interface/statuses/stimbreath.png"
+}

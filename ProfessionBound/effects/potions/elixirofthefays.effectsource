@@ -1,0 +1,30 @@
+{
+  "kind" : "elixirofthefays",
+  "definition" : {
+    "duration" : 18,
+    "loops" : false,
+    "location" : "mouth",
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "coldbreath" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

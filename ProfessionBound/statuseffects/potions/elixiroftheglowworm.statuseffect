@@ -1,0 +1,9 @@
+{
+  "kind" : "elixiroftheglowworm",
+  "duration" : 60,
+  "primitives" : [
+    { "name" : "glow" } 
+  ],
+  "effectSources" : [ "elixiroftheglowworm" ],
+  "mainInterfaceIcon" : "/interface/forcefield.png"
+}

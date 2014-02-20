@@ -1,0 +1,15 @@
+{
+  "itemName" : "elixirofthegrasshopper",
+  "rarity" : "uncommon",
+  "level" : 1,
+  "inventoryIcon" : "elixirofthegrasshoppericon.png",
+  "description" : "Increase your movement speed for 12 seconds.",
+  "shortdescription" : "Elixir of the Grasshopper",
+  "effects" : [ [
+      {
+        "kind" : "elixirofthegrasshopper"
+      }
+    ] ],
+  "emote" : "Oh",
+  "emitters" : [ "elixirofthegrasshopper" ]
+}

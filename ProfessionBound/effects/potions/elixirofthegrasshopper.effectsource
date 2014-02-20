@@ -1,0 +1,29 @@
+{
+  "kind" : "elixirofthegrasshopper",
+  "definition" : {
+    "duration" : 0.05,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "jumpboostmessage" ]
+      ],
+      "sounds" : [
+        [ "/sfx/statuseffects/powerup.wav" ]
+      ]
+    },
+    "particles" : [
+      [ "jumpboost" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

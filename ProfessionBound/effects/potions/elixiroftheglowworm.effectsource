@@ -1,0 +1,29 @@
+{
+  "kind" : "elixiroftheglowworm",
+  "definition" : {
+    "duration" : 60.00,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "runboostmessage" ]
+      ],
+      "sounds" : [
+        [ "/sfx/statuseffects/powerup.wav" ]
+      ]
+    },
+    "particles" : [
+      [ "runboost" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

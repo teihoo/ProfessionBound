@@ -1,0 +1,15 @@
+{
+  "itemName" : "elixirofthefays",
+  "rarity" : "common",
+  "level" : 1,
+  "inventoryIcon" : "elixirofthefaysicon.png",
+  "description" : "Float like the flying creatures of the old world, for ",
+  "shortdescription" : "Elixir of the Fays",
+  "effects" : [ [
+      {
+        "kind" : "elixirofthefays"
+      }
+    ] ],
+  "emote" : "Oh",
+  "emitters" : [ "elixirofthefays" ]
+}
