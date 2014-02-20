@@ -1,15 +1,10 @@
 {
   "input" : [
-    { "item" : "woodencraftingtable1", "count" : 1 },
-    { "item" : "titaniumbar", "count" : 10 },
-	{ "item" : "steelbar", "count" : 10 },
-	{ "item" : "money", "count" : 225 },
-	{ "item" : "greenflask", "count" : 1 },
-	{ "item" : "redflask", "count" : 1 }
+    { "item" : "money", "count" : 1 }
   ],
   "output" : {
     "item" : "AlchemistDesk",
     "count" : 1
   },
-  "groups" : [ "metalworkstation", "objects", "all", "tools" ]
+  "groups" : [ "plain" ]
 }
