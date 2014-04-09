@@ -1,0 +1,9 @@
+{
+  "itemName" : "sack_of_flour",
+  "rarity" : "uncommon",
+  "category" : "Cooking",
+  "race" : "generic",
+  "inventoryIcon" : "sack_of_flour.png",
+  "description" : "A sack of flour.",
+  "shortdescription" : "Sack of Flour"
+}

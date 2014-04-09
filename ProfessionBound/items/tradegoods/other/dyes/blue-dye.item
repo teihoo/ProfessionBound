@@ -1,0 +1,9 @@
+{
+  "itemName" : "blue-dye",
+  "rarity" : "Common",
+  "category" : "Dye",
+  "race" : "generic",
+  "inventoryIcon" : "blue-dye.png",
+  "description" : "A blue dye.",
+  "shortdescription" : "Blue Dye"
+}

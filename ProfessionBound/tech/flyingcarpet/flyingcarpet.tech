@@ -1,0 +1,9 @@
+{
+  "script" : "flyingcarpet.lua",
+  "actions" : [ "flyingcarpet" ],
+  "animator" : "flyingcarpet.animation",
+
+  "flyingcarpetSpeed" : 30.0,
+  "flyingcarpetControlForce" : 500.0,
+  "energyUsagePerSecond" : 0.0
+}

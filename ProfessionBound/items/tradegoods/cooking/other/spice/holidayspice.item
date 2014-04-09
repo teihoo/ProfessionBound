@@ -1,0 +1,9 @@
+{
+  "itemName" : "holidayspice",
+  "rarity" : "rare",
+  "category" : "Cooking",
+  "race" : "generic",
+  "inventoryIcon" : "holidayspice.png",
+  "description" : "This is found during holiday events, these spices have a great touch of the seasons!",
+  "shortdescription" : "Holiday Spice"
+}

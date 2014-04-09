@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 3 },
+	{ "item" : "ship_fuel", "count" : 3 },
+	{ "item" : "copper_screws", "count" : 3 },
+	{ "item" : "copper_bolts", "count" : 3 },
+	{ "item" : "copper_gizmo_gears", "count" : 3 }
+  ],
+  "output" : { "item" : "chainsawdefault", "count" : 1 },
+  "groups" : [ "gadgets" ]
+}

@@ -1,0 +1,37 @@
+{
+  "objectName" : "MedicalStation",
+  "printable" : false,
+  "rarity" : "uncommon",
+  "objectType" : "interactable",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/MedicalStation.config",
+    "filter" : [ "bandages", "medicalgadgets", "medkits", "othermedstuff" ]
+  },
+  "description" : "Create things beyond this cosmos and the next with this table!",
+  "shortdescription" : "Medical Station",
+  "race" : "generic",
+  "category" : "crafting",
+
+  "apexDescription" : "Medical Station, create many things! Early alpha table!",
+  "avianDescription" : "Medical Station, create many things! Early alpha table!",
+  "floranDescription" : "Medical Station, create many things! Early alpha table!",
+  "glitchDescription" : "Medical Station, create many things! Early alpha table!",
+  "humanDescription" : "Medical Station, create many things! Early alpha table!",
+  "hylotlDescription" : "Medical Station, create many things! Early alpha table!",
+
+  "inventoryIcon" : "MedicalStationicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "MedicalStation.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

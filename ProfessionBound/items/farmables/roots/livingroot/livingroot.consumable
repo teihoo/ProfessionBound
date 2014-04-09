@@ -1,0 +1,14 @@
+{
+  "itemName" : "livingroot",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "inventoryIcon" : "livingrooticon.png",
+  "description" : "I don't really know if I should eat this..",
+  "shortdescription" : "Living Root",
+  "effects" : [ [
+      {
+        "kind" : "glow",
+        "amount" : 125
+      }
+    ] ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "target10",
+  "category" : "target10",
+  "type" : "body",
+
+  "frames" : {
+    "target10" : "target10.png"
+  }
+}

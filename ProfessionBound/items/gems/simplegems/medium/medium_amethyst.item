@@ -1,0 +1,9 @@
+{
+  "itemName" : "medium_Amethyst",
+  "rarity" : "uncommon",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "medium_Amethyst.png",
+  "description" : "A medium Amethyst.",
+  "shortdescription" : "Medium Amethyst Gem"
+}

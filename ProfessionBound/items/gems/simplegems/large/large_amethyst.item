@@ -1,0 +1,9 @@
+{
+  "itemName" : "large_Amethyst",
+  "rarity" : "rare",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "large_Ruby.png",
+  "description" : "A large Amethyst.",
+  "shortdescription" : "Large Amethyst Gem"
+}

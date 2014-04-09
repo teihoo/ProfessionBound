@@ -1,0 +1,16 @@
+{
+  "itemName" : "elixirofminordefence",
+  "rarity" : "uncommon",
+  "level" : 1,
+  "inventoryIcon" : "elixirofminordefenceicon.png",
+  "description" : "Increase your defence for 12 seconds.",
+  "shortdescription" : "Elixir of Minor Defence",
+  "effects" : [ [
+      {
+        "kind" : "elixirofminordefence",
+		"duration" : 12
+      }
+    ] ],
+  "emote" : "Oh",
+  "emitters" : [ "elixirofminordefence" ]
+}

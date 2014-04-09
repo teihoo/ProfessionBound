@@ -1,0 +1,9 @@
+{
+  "itemName" : "windrune",
+  "rarity" : "uncommon",
+  "category" : "Rune",
+  "race" : "generic",
+  "description" : "Runes are useful for many powerful creations.",
+  "inventoryIcon" : "windrune.png",
+  "shortdescription" : "Wind Rune"
+}

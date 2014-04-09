@@ -1,0 +1,9 @@
+{
+  "itemName" : "starcloth",
+  "rarity" : "uncommon",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "starcloth.png",
+  "description" : "Star Cloth.",
+  "shortdescription" : "Star Cloth"
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "icerune",
+  "rarity" : "uncommon",
+  "category" : "Rune",
+  "race" : "generic",
+  "description" : "Runes are useful for many powerful creations.",
+  "inventoryIcon" : "icerune.png",
+  "shortdescription" : "Ice Rune"
+}

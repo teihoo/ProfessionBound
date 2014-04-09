@@ -1,0 +1,14 @@
+{
+  "itemName" : "rawkelp",
+  "rarity" : "uncommon",
+  "inventoryIcon" : "rawkelp.png",
+  "description" : "Slimy... and tasty!",
+  "shortdescription" : "Raw Cave Fish",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 15
+      }
+    ] ]
+}

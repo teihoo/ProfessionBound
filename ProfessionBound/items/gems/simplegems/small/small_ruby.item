@@ -1,0 +1,9 @@
+{
+  "itemName" : "small_Ruby",
+  "rarity" : "common",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "small_Ruby.png",
+  "description" : "A small Ruby gem.",
+  "shortdescription" : "Small Ruby Gem"
+}

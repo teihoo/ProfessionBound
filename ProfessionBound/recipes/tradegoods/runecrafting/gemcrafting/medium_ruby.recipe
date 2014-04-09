@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "small_Ruby", "count" : 3 }
+  ],
+  "output" : { "item" : "medium_Ruby", "count" : 1 },
+  "groups" : [ "gemupgrade" ]
+}

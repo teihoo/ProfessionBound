@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "orangepowder", "count" : 6 },
+	{ "item" : "purplepowder", "count" : 6 },
+	{ "item" : "cyanpowder", "count" : 5 },
+	{ "item" : "bluepowder", "count" : 6 },
+	{ "item" : "redpowder", "count" : 6 },
+	{ "item" : "yellowpowder", "count" : 6 },
+    { "item" : "greenpowder", "count" : 6 }
+  ],
+  "output" : { "item" : "rainbowpowder", "count" : 3 },
+  "groups" : [ "mortargrinding" ]
+}

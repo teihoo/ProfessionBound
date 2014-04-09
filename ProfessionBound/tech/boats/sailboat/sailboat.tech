@@ -1,0 +1,58 @@
+{
+  "script" : "/tech/boats/sailboat.lua",
+  "actions" : [ "mechActivate", "mechDeactivate" ],
+  "animator" : "sailboat.animation",
+
+  "mechCustomMovementParameters" : {
+    "standingPoly" : [ [-5, -4], [-2, -5.5], [2, -5.5], [5, -4], [5, -3], [2, -3], [-2, -3], [-5, -3] ],
+    "crouchingPoly" : [ [-5, -4], [-2, -5.5], [2, -5.5], [5, -4], [5, -3], [2, -3], [-2, -3], [-5, -3] ],
+
+    "mass" : 0.8,
+
+    "liquidBuoyancy" : 1.2,
+
+    "normalGroundFriction" : 150.0,
+    "ambulatingGroundFriction" : 15.0,
+    "skiddingGroundFriction" : 30.0,
+
+    "groundForce" : 50.0,
+    "airForce" : 50.0,
+    "liquidForce" : 100.0,
+
+    "walkSpeed" : 20.0,
+    "runSpeed" : 40.0,
+
+    "airJumpProfile" : {
+      "jumpSpeed" : 2.0,
+      "jumpControlForce" : 100.0,
+      "jumpInitialPercentage" : 0.75,
+      "jumpHoldTime" : 0.15
+    },
+
+    "liquidJumpProfile" : {
+      "jumpSpeed" : 2.0,
+      "jumpControlForce" : 100.0,
+      "jumpInitialPercentage" : 0.75,
+      "jumpHoldTime" : 0.1
+    }
+  },
+
+  "standardBuoyancy" : {
+    "liquidBuoyancy" : 0.0
+  },
+
+  "energyCostPerSecond" : 5,
+
+  "mechTransformPositionChange" : [0.0, 0.0],
+  "parentOffset" : [0.0, -2.0],
+
+  "mechCollisionTest" : [-3.5, -5.25, 3.5, 0],
+
+  "mechAimLimit" : 40,
+
+  "mechFireCycle" : 1.0,
+  "mechProjectile" : "carhorn",
+  "mechProjectileConfig" : {
+    "power" : 0
+  }
+}

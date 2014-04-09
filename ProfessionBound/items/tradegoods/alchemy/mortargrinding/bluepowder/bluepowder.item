@@ -1,0 +1,9 @@
+{
+  "itemName" : "bluepowder",
+  "rarity" : "Common",
+  "category" : "Mortar Grinding",
+  "race" : "generic",
+  "inventoryIcon" : "bluepowder.png",
+  "description" : "A mystical powder, this might be useful stuff for crafting.",
+  "shortdescription" : "Blue Powder"
+}

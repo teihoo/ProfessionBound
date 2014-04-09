@@ -1,0 +1,9 @@
+{
+  "itemName" : "durarockrune",
+  "rarity" : "rare",
+  "category" : "Rune",
+  "race" : "generic",
+  "description" : "Runes are useful for many powerful creations.",
+  "inventoryIcon" : "durarockrune.png",
+  "shortdescription" : "Durarock Rune"
+}

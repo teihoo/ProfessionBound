@@ -1,0 +1,13 @@
+{
+  "itemName" : "bellpepper",
+  "rarity" : "common",
+  "inventoryIcon" : "bellpepper.png",
+  "description" : "Not that that but good for seasoning spices!",
+  "shortdescription" : "Bell Pepper",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 12
+      }
+    ] ]
+}

@@ -1,0 +1,17 @@
+{
+  "hunting" : [
+    [1, {
+        "pool" : [
+          [0.7, [ "alienmeat" ] ],
+          [0.5, [ "leather_scraps" ] ],
+		  [0.5, [ "light_hide" ] ]
+        ],
+        "poolRounds" : [
+          [0.10, 0],
+          [0.90, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "windrune", "count" : 1 },
+	{ "item" : "lightningrune", "count" : 1 }
+  ],
+  "output" : { "item" : "energyrune", "count" : 3 },
+  "groups" : [ "runecrafting" ]
+}

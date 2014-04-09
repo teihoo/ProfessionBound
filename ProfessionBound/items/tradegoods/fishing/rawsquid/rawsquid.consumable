@@ -1,0 +1,14 @@
+{
+  "itemName" : "rawsquid",
+  "rarity" : "rare",
+  "inventoryIcon" : "rawsquid.png",
+  "description" : "It's a raw squid...slimy.",
+  "shortdescription" : "Raw Squid",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 45
+      }
+    ] ]
+}

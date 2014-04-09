@@ -1,0 +1,9 @@
+{
+  "itemName" : "silk_cloth",
+  "rarity" : "uncommon",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "silk_cloth.png",
+  "description" : "Silk Cloth.",
+  "shortdescription" : "Silk Cloth"
+}

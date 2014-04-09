@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "rawsalmon", "count" : 1 }
+  ],
+  "output" : { "item" : "vitaminfishoil", "count" : 2 },
+  "groups" : [ "mortargrinding" ]
+}

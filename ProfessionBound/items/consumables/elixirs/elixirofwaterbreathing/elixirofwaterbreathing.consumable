@@ -1,0 +1,15 @@
+{
+  "itemName" : "elixirofwaterbreathing",
+  "rarity" : "uncommon",
+  "level" : 1,
+  "inventoryIcon" : "elixirofwaterbreathingicon.png",
+  "description" : "Allows you to breath under water for 45 seconds.",
+  "shortdescription" : "Elixir of Water Breathing",
+  "effects" : [ [
+      {
+        "kind" : "elixirofwaterbreathing"
+      }
+    ] ],
+  "emote" : "Oh",
+  "emitters" : [ "elixirofwaterbreathing" ]
+}

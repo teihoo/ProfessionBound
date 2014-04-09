@@ -1,0 +1,21 @@
+{
+  "itemName" : "eveningfireworkitem",
+  "rarity" : "Common",
+  "inventoryIcon" : "eveningfireworkicon.png",
+  "image" : "rosefireworkicon.png",
+  "shortdescription" : "Evening Firework",
+  "description" : "Firework maded of 2 mixed colours. This one is called *Evening*.",
+
+  "ammoUsage" : 1,
+
+  "edgeTrigger" : true,
+  "windupTime" : 0.0,
+  "cooldown" : 0.1,
+
+  "projectileType" : "eveningfireworkspawner",
+  "projectileConfig" : {
+    "speed" : 0,
+    "power" : 0
+  }
+}
+

@@ -1,0 +1,14 @@
+{
+  "itemName" : "lactariusindigo",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "inventoryIcon" : "lactariusindigo.png",
+  "description" : "I don't really know if I should eat this..",
+  "shortdescription" : "Lactarius Indigo Mushroom",
+  "effects" : [ [
+      {
+        "kind" : "elixirofwaterbreathing",
+        "amount" : 17
+      }
+    ] ]
+}

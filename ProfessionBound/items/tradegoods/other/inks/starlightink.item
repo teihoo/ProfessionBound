@@ -1,0 +1,9 @@
+{
+  "itemName" : "starlightink",
+  "rarity" : "uncommon",
+  "category" : "Reagents",
+  "race" : "generic",
+  "inventoryIcon" : "starlightink.png",
+  "description" : "Starlight Ink. A great writing ink for the greatest of crafts.",
+  "shortdescription" : "Starlight Ink"
+}

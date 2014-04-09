@@ -1,0 +1,8 @@
+{
+  "itemName" : "rubium_powder",
+  "rarity" : "rare",
+  "category" : "Gemcrafting",
+  "inventoryIcon" : "rubium_powder.png",
+  "description" : "Powders from ore crushed by a gemcrafter! Useful for stuff.",
+  "shortdescription" : "Rubium Powder"
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "boltofstarcloth",
+  "rarity" : "uncommon",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "boltofstarcloth.png",
+  "description" : "Made up from a bunch of star cloth.",
+  "shortdescription" : "Bolt of Star Cloth"
+}

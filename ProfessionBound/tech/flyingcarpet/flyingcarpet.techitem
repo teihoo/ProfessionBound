@@ -1,0 +1,10 @@
+{
+  "itemName" : "flyingcarpetTech",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "/tech/flyingcarpet.png",
+  "description" : "Press Jump while in the air to use this flyingcarpet tech.",
+  "shortdescription" : "Flying Carpet",
+  "inspectionKind" : "tech",
+
+  "techModule" : "flyingcarpet.tech"
+}

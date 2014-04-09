@@ -1,0 +1,9 @@
+{
+  "itemName" : "guardianstone",
+  "rarity" : "uncommon",
+  "category" : "Reagents",
+  "race" : "generic",
+  "inventoryIcon" : "guardianstone.png",
+  "description" : "Guardian Stone, an uncommon stone found with the avian people.. useful for many recipes.",
+  "shortdescription" : "Guardian Stone"
+}

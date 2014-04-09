@@ -1,0 +1,29 @@
+{
+  "kind" : "elixirofantstrength",
+  "definition" : {
+    "duration" : 12.00,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "sparkle2" ]
+      ],
+      "sounds" : [
+        [ "/sfx/statuseffects/powerup.wav" ]
+      ]
+    },
+    "particles" : [
+      [ "sparkle3" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "sparkle4" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

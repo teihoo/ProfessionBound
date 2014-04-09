@@ -1,0 +1,8 @@
+{
+  "itemName" : "silkthread",
+  "rarity" : "uncommon",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "silkthread.png",
+  "shortdescription" : "Silk Thread"
+}

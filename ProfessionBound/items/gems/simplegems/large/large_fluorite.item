@@ -1,0 +1,9 @@
+{
+  "itemName" : "large_Fluorite",
+  "rarity" : "rare",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "large_Fluorite.png",
+  "description" : "A large Fluorite.",
+  "shortdescription" : "Large Fluorite Gem"
+}

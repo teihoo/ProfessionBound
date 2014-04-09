@@ -1,0 +1,9 @@
+{
+  "itemName" : "large_Emerald",
+  "rarity" : "rare",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "large_Emerald.png",
+  "description" : "A large Emerald.",
+  "shortdescription" : "Large Emerald Gem"
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "celestialink",
+  "rarity" : "rare",
+  "category" : "Reagents",
+  "race" : "generic",
+  "inventoryIcon" : "celestialink.png",
+  "description" : "Celestial Ink. The finest writing materials known, to the cosmos.",
+  "shortdescription" : "Celestial Ink"
+}

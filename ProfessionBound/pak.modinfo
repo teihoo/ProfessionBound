@@ -1,0 +1,13 @@
+{
+    "name": "ProfessionBound",
+    "version": "Beta v. Enraged Koala",
+    "path": ".",
+    "dependencies": [],
+    "metadata": {
+	    "description" : "Bringing crafting to its full potential.",
+        "author": "Armed Mosquito",
+		"pixelartist": "Armed Mosquito",
+        "modversion": "Ingredients to a Better Tomorrow #0.2.0 Beta",
+        "support-url": "http://ProfessionBound.com or http://ProfessionBound.net"
+    }
+}

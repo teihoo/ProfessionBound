@@ -1,0 +1,8 @@
+{
+  "itemName" : "mint",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "inventoryIcon" : "mint.png",
+  "description" : "Herbs are useful for many recipes!",
+  "shortdescription" : "Mint Herb"
+}

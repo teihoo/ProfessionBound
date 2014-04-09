@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 2500 },
+	{ "item" : "durasteelbar", "count" : 20 }
+  ],
+  "output" : { "item" : "proboundstation", "count" : 1 },
+  "groups" : [ "plain", "other", "all" ]
+}

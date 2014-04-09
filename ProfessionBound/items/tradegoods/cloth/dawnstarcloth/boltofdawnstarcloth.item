@@ -1,0 +1,9 @@
+{
+  "itemName" : "boltofdawnstarcloth",
+  "rarity" : "rare",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "boltofdawnstarcloth.png",
+  "description" : "Made up from a bunch of dawnstar cloth.",
+  "shortdescription" : "Bolt of Dawnstar Cloth"
+}

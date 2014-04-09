@@ -1,0 +1,21 @@
+{
+  "itemName" : "tealfireworkitem",
+  "rarity" : "Common",
+  "inventoryIcon" : "tealfireworkicon.png",
+  "image" : "tealfireworkicon.png",
+  "shortdescription" : "Teal Firework",
+  "description" : "One of simpliest fireworks. This one is teal.",
+
+  "ammoUsage" : 1,
+
+  "edgeTrigger" : true,
+  "windupTime" : 0.0,
+  "cooldown" : 0.1,
+
+  "projectileType" : "tealfireworkspawner",
+  "projectileConfig" : {
+    "speed" : 0,
+    "power" : 0
+  }
+}
+

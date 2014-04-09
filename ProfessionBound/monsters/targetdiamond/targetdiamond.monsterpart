@@ -1,0 +1,9 @@
+{
+  "name" : "targetdiamond",
+  "category" : "targetdiamond",
+  "type" : "body",
+
+  "frames" : {
+    "targetdiamond" : "targetdiamond.png"
+  }
+}

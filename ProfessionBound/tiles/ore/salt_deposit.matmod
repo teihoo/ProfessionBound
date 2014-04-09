@@ -1,0 +1,10 @@
+{
+  "modId" : 1496008,
+  "modName" : "salt_deposit",
+  "frames" : "salt_deposit.png",
+  "variants" : 8,
+  "itemDrop" : "salt_deposit",
+  "Description" : "Salt Deposit",
+  "health" : 6,
+  "breaksWithTile" : true
+}

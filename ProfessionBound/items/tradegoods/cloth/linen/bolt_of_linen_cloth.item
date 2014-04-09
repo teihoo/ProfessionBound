@@ -1,0 +1,9 @@
+{
+  "itemName" : "bolt_of_linen_cloth",
+  "rarity" : "uncommon",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "bolt_of_linen_cloth.png",
+  "description" : "Made up from a bunch of linen cloth.",
+  "shortdescription" : "Bolt of Linen Cloth"
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "vortexrune",
+  "rarity" : "legendary",
+  "category" : "Rune",
+  "race" : "generic",
+  "description" : "Runes are useful for many powerful creations.",
+  "inventoryIcon" : "vortexrune.png",
+  "shortdescription" : "Vortex Rune"
+}

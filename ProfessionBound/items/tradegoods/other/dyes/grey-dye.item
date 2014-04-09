@@ -1,0 +1,9 @@
+{
+  "itemName" : "grey-dye",
+  "rarity" : "Common",
+  "category" : "Dye",
+  "race" : "generic",
+  "inventoryIcon" : "grey-dye.png",
+  "description" : "A grey dye.",
+  "shortdescription" : "Grey Dye"
+}

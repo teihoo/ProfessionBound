@@ -1,0 +1,7 @@
+{
+  "itemName" : "heavygrindingstone",
+  "rarity" : "common",
+  "inventoryIcon" : "heavygrindingstone.png",
+  "description" : "It's a heavy grinding stone. Useful for blacksmiths.",
+  "shortdescription" : "Heavy Grinding Stone"
+}

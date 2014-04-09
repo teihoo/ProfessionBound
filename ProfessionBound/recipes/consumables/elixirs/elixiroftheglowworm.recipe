@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "amberpowder", "count" : 1 },
+	{ "item" : "goldenroot", "count" : 2 },
+	{ "item" : "smallwfilledflask", "count" : 1 }
+  ],
+  "output" : { "item" : "elixirofthefays", "count" : 1 },
+  "groups" : [ "potions" ]
+}

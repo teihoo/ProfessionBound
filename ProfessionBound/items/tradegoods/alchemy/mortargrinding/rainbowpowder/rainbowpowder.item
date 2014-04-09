@@ -1,0 +1,9 @@
+{
+  "itemName" : "rainbowpowder",
+  "rarity" : "Legendary",
+  "category" : "Mortar Grinding",
+  "race" : "generic",
+  "inventoryIcon" : "rainbowpowder.png",
+  "description" : "A mystical powder, this might be useful stuff for crafting.",
+  "shortdescription" : "Rainbow Powder"
+}

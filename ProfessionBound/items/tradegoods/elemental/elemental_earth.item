@@ -1,0 +1,8 @@
+{
+  "itemName" : "elemental_earth",
+  "rarity" : "Common",
+  "category" : "Elemental",
+  "race" : "generic",
+  "inventoryIcon" : "elemental_earth.png",
+  "shortdescription" : "Elemental Earth"
+}

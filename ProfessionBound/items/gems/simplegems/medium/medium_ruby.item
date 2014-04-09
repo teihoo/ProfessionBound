@@ -1,0 +1,9 @@
+{
+  "itemName" : "medium_Ruby",
+  "rarity" : "uncommon",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "medium_Ruby.png",
+  "description" : "A medium Ruby.",
+  "shortdescription" : "Medium Ruby Gem"
+}

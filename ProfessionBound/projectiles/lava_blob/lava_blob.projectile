@@ -1,0 +1,17 @@
+{
+  "projectileName" : "lava_blob",
+  "physics" : "grenade",
+  "frames" : "lava_blob.png",
+  "level" : 1,
+  "energyCostPerDamagePoint" : 35,
+  "animationCycle" : 0.3,
+  "frameNumber" : 1,
+  "damageKindImage" : "ammoType.png",
+  "actionOnReap" : [ 
+  { 
+  "action" : "liquid", "liquidId" : 3, "quantity" : 1000 
+  }
+  ],
+  "power" : 0.6,
+  "damageKind" : "default"
+}

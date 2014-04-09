@@ -1,0 +1,9 @@
+{
+  "itemName" : "oldspice",
+  "rarity" : "rare",
+  "category" : "Cooking",
+  "race" : "generic",
+  "inventoryIcon" : "oldspice.png",
+  "description" : "Please do not consume this under the arms.",
+  "shortdescription" : "Old Spice"
+}

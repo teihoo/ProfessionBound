@@ -1,0 +1,15 @@
+{
+  "itemName" : "elixirofthelynx",
+  "rarity" : "common",
+  "level" : 1,
+  "inventoryIcon" : "elixirofthelynxicon.png",
+  "description" : "Increase your movement speed for 12 seconds.",
+  "shortdescription" : "Elixir of the Lynx",
+  "effects" : [ [
+      {
+        "kind" : "elixirofthelynx"
+      }
+    ] ],
+  "emote" : "Oh",
+  "emitters" : [ "elixirofthelynx" ]
+}

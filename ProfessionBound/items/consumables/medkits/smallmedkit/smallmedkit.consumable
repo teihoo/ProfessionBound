@@ -1,0 +1,18 @@
+{
+  "itemName" : "smallmedkit",
+  "rarity" : "Common",
+  "inventoryIcon" : "smallmedkiticon.png",
+  "description" : "A medical kit. For when you absolutely need some energy and health!",
+  "shortdescription" : "Small Medical Kit",
+  "effects" : [ [
+      {
+        "kind" : "health",
+        "amount" : 15
+      },
+	  {
+        "kind" : "energy",
+        "amount" : 15
+      }
+    ] ],
+  "emote" : "Oh"
+}

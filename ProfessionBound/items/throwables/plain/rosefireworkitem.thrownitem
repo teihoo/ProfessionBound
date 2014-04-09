@@ -1,0 +1,21 @@
+{
+  "itemName" : "rosefireworkitem",
+  "rarity" : "Common",
+  "inventoryIcon" : "rosefireworkicon.png",
+  "image" : "rosefireworkicon.png",
+  "shortdescription" : "Rose Firework",
+  "description" : "One of simpliest fireworks. This one is rose.",
+
+  "ammoUsage" : 1,
+
+  "edgeTrigger" : true,
+  "windupTime" : 0.0,
+  "cooldown" : 0.1,
+
+  "projectileType" : "rosefireworkspawner",
+  "projectileConfig" : {
+    "speed" : 0,
+    "power" : 0
+  }
+}
+

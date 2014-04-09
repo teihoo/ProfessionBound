@@ -1,0 +1,14 @@
+{
+  "itemName" : "rawrocktail",
+  "rarity" : "rare",
+  "inventoryIcon" : "rawrocktail.png",
+  "description" : "It's a raw fish...slimy.",
+  "shortdescription" : "Raw Rocktail Fish",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 45
+      }
+    ] ]
+}

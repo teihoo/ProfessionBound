@@ -1,0 +1,9 @@
+{
+  "itemName" : "bloodofheroes",
+  "rarity" : "legendary",
+  "category" : "Reagents",
+  "race" : "generic",
+  "inventoryIcon" : "bloodofheroesicon.png",
+  "description" : "Blood of the Heroes, very rare used on some epic recipes for many profession tables..",
+  "shortdescription" : "Blood of Heroes"
+}

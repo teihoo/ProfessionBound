@@ -1,0 +1,9 @@
+{
+  "itemName" : "redpowder",
+  "rarity" : "Common",
+  "category" : "Mortar Grinding",
+  "race" : "generic",
+  "inventoryIcon" : "redpowder.png",
+  "description" : "A mystical powder, this might be useful stuff for crafting.",
+  "shortdescription" : "Red Powder"
+}

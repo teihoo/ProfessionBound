@@ -1,0 +1,10 @@
+{
+  "modId" : 1496002,
+  "modName" : "amethyst_gem",
+  "frames" : "amethyst_gem.png",
+  "variants" : 8,
+  "itemDrop" : "small_Amethyst",
+  "Description" : "This ore contains a gem.",
+  "health" : 15,
+  "breaksWithTile" : true
+}

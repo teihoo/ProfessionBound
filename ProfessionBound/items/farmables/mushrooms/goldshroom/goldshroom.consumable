@@ -1,0 +1,14 @@
+{
+  "itemName" : "goldshroom",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "inventoryIcon" : "goldshroom.png",
+  "description" : "I don't really know if I should eat this.. it has gold in it literally.",
+  "shortdescription" : "Gold Shroom",
+  "effects" : [ [
+      {
+        "kind" : "glow",
+        "amount" : 125
+      }
+    ] ]
+}

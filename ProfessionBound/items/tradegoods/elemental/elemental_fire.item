@@ -1,0 +1,8 @@
+{
+  "itemName" : "elemental_fire",
+  "rarity" : "Common",
+  "category" : "Elemental",
+  "race" : "generic",
+  "inventoryIcon" : "elemental_fire.png",
+  "shortdescription" : "Elemental Fire"
+}

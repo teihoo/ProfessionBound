@@ -1,0 +1,9 @@
+{
+  "itemName" : "whitepowder",
+  "rarity" : "Rare",
+  "category" : "Mortar Grinding",
+  "race" : "generic",
+  "inventoryIcon" : "whitepowder.png",
+  "description" : "A mystical powder, this might be useful stuff for crafting.",
+  "shortdescription" : "White Powder"
+}

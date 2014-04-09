@@ -1,0 +1,9 @@
+{
+  "itemName" : "simple_flour",
+  "rarity" : "common",
+  "category" : "Cooking",
+  "race" : "generic",
+  "inventoryIcon" : "simple_flour.png",
+  "description" : "Just some cooking flour ground up from wheat either from a table or mortar and pestle.",
+  "shortdescription" : "Cooking Flour"
+}

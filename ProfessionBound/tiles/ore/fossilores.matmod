@@ -1,0 +1,13 @@
+{
+  "modId" : 1496011,
+  "modName" : "fossilores",
+  "frames" : "fossilores.png",
+  "particleColor" : [231, 223, 189, 255],
+  "variants" : 5,
+  "itemDrop" : "fossils",
+  "description" : "Fossils! Great for making tablets.",
+  "shortdescription" : "Fossil Ore",
+  "glitchDescription" : "Analysis. This bone came from a huge creature.",
+  "floranDescription" : "Bonesss!",
+  "health" : 15.0
+}

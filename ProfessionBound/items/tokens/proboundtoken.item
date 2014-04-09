@@ -1,0 +1,9 @@
+{
+  "itemName" : "proboundtoken",
+  "rarity" : "uncommon",
+  "category" : "Token",
+  "race" : "generic",
+  "inventoryIcon" : "proboundtoken.png",
+  "description" : "Used for unlocking new recipes, and other rewards.",
+  "shortdescription" : "Pro-Bound Token"
+}

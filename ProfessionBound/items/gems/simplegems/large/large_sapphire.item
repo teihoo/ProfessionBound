@@ -1,0 +1,9 @@
+{
+  "itemName" : "large_Sapphire",
+  "rarity" : "rare",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "large_Sapphire.png",
+  "description" : "A large Sapphire.",
+  "shortdescription" : "Large Sapphire Gem"
+}

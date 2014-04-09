@@ -1,0 +1,15 @@
+{
+  "itemName" : "elixiroftheglowworm",
+  "rarity" : "common",
+  "level" : 1,
+  "inventoryIcon" : "elixiroftheglowwormicon.png",
+  "description" : "Increase your movement speed for 12 seconds.",
+  "shortdescription" : "Elixir of the Glow Worm",
+  "effects" : [ [
+      {
+        "kind" : "elixiroftheglowworm"
+      }
+    ] ],
+  "emote" : "Oh",
+  "emitters" : [ "elixiroftheglowworm" ]
+}

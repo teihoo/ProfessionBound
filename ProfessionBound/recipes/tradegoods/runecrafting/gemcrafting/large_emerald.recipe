@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "medium_Emerald", "count" : 3 }
+  ],
+  "output" : { "item" : "large_Emerald", "count" : 1 },
+  "groups" : [ "gemupgrade" ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "green_monsterscale",
+  "rarity" : "Common",
+  "category" : "Leathercrafting",
+  "race" : "generic",
+  "inventoryIcon" : "green_monsterscale.png",
+  "description" : "A scale from a monster.",
+  "shortdescription" : "Green Monster Scale"
+}

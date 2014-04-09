@@ -1,0 +1,7 @@
+{
+  "itemName" : "salt_deposit",
+  "rarity" : "common",
+  "inventoryIcon" : "salt_deposit.png",
+  "Description" : "Not good, for cooking just yet. Crush this up with an alchemist desk first.",
+  "shortdescription" : "Salt Deposit"
+}

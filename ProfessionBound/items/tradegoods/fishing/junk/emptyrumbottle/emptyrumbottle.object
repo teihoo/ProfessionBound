@@ -1,0 +1,24 @@
+{
+  "objectName" : "emptyrumbottle",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 300,
+  "description" : "An empty rum bottle, must have been a pirates.",
+  "shortdescription" : "Empty Rum Bottle",
+  "race" : "generic",
+
+  "inventoryIcon" : "emptyrumbottleicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "emptyrumbottle.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

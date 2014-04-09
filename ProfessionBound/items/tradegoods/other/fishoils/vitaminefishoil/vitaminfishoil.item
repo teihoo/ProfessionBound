@@ -1,0 +1,9 @@
+{
+  "itemName" : "vitaminfishoil",
+  "rarity" : "uncommon",
+  "category" : "Other",
+  "race" : "generic",
+  "inventoryIcon" : "vitaminfishoil.png",
+  "description" : "This fish oil seems to contain vitamins, this might prove useful for medical creations!",
+  "shortdescription" : "Vitamin Fish Oil"
+}

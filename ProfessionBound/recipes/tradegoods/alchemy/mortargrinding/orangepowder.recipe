@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "redpowder", "count" : 4 },
+	{ "item" : "greenpowder", "count" : 4 }
+  ],
+  "output" : { "item" : "orangepowder", "count" : 2 },
+  "groups" : [ "mortargrinding" ]
+}

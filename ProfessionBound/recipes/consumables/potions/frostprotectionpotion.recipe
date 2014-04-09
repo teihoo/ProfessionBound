@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "cyanpowder", "count" : 1 },
+	{ "item" : "dragonsbeard", "count" : 1 },
+	{ "item" : "smallwfilledflask", "count" : 1 }
+  ],
+  "output" : { "item" : "frostprotectionpotion", "count" : 1 },
+  "groups" : [ "potions" ]
+}

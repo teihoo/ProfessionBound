@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "soft_leather", "count" : 3 }
+  ],
+  "output" : { "item" : "medium_leather", "count" : 1 },
+  "groups" : [ "leathercrafting" ]
+}

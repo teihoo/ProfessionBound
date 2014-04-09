@@ -1,0 +1,14 @@
+{
+  "itemName" : "goldenroot",
+  "rarity" : "Common",
+  "category" : "Farmable",
+  "inventoryIcon" : "goldenrooticon.png",
+  "description" : "I don't really know if I should eat this.. it has gold in it literally.",
+  "shortdescription" : "Golden Root",
+  "effects" : [ [
+      {
+        "kind" : "glow",
+        "amount" : 125
+      }
+    ] ]
+}

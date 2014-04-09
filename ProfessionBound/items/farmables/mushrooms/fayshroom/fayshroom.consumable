@@ -1,0 +1,14 @@
+{
+  "itemName" : "fayshroom",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "inventoryIcon" : "fayshroom.png",
+  "description" : "I don't really know if I should eat this..",
+  "shortdescription" : "Fayshroom",
+  "effects" : [ [
+      {
+        "kind" : "elixirofwaterbreathing",
+        "amount" : 17
+      }
+    ] ]
+}

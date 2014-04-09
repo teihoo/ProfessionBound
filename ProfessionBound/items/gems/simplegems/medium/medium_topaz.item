@@ -1,0 +1,9 @@
+{
+  "itemName" : "medium_Topaz",
+  "rarity" : "uncommon",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "medium_Topaz.png",
+  "description" : "A medium Topaz.",
+  "shortdescription" : "Medium Topaz Gem"
+}

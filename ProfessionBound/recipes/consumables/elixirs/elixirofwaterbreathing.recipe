@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "bluepowder", "count" : 1 },
+	{ "item" : "guam", "count" : 3 },
+	{ "item" : "smallwfilledflask", "count" : 1 }
+  ],
+  "output" : { "item" : "elixirofwaterbreathing", "count" : 1 },
+  "groups" : [ "potions" ]
+}

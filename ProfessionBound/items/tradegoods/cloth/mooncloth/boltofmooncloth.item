@@ -1,0 +1,9 @@
+{
+  "itemName" : "boltofmooncloth",
+  "rarity" : "uncommon",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "boltofmooncloth.png",
+  "description" : "Made up from a bunch of moon cloth. Not quiet as good as star cloth.",
+  "shortdescription" : "Bolt of Moon Cloth"
+}

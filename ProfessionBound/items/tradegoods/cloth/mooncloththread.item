@@ -1,0 +1,8 @@
+{
+  "itemName" : "mooncloththread",
+  "rarity" : "uncommon",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "mooncloththread.png",
+  "shortdescription" : "Mooncloth Thread"
+}

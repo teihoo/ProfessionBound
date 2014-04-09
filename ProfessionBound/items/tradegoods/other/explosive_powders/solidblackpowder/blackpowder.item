@@ -1,0 +1,9 @@
+{
+  "itemName" : "solidblackpowder",
+  "rarity" : "uncommon",
+  "category" : "Mortar Grinding",
+  "race" : "generic",
+  "inventoryIcon" : "solidblackpowder.png",
+  "description" : "Solid Black Powder, an explosive reagent.",
+  "shortdescription" : "Solid Black Powder"
+}

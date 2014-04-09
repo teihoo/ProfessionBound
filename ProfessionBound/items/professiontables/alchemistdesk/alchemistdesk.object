@@ -1,0 +1,37 @@
+{
+  "objectName" : "AlchemistDesk",
+  "printable" : false,
+  "rarity" : "uncommon",
+  "objectType" : "interactable",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/AlchemistDesk.config",
+    "filter" : [ "potions", "mortargrinding", "transmutes", "dyes", "runecrafting-a", "moreastuff" ]
+  },
+  "description" : "Create things beyond this cosmos and the next with this table!",
+  "shortdescription" : "Alchemist Desk",
+  "race" : "generic",
+  "category" : "crafting",
+
+  "apexDescription" : "Alchemist Desk, create many things! Early alpha table!",
+  "avianDescription" : "Alchemist Desk, create many things! Early alpha table!",
+  "floranDescription" : "Alchemist Desk, create many things! Early alpha table!",
+  "glitchDescription" : "Alchemist Desk, create many things! Early alpha table!",
+  "humanDescription" : "Alchemist Desk, create many things! Early alpha table!",
+  "hylotlDescription" : "Alchemist Desk, create many things! Early alpha table!",
+
+  "inventoryIcon" : "AlchemistDeskicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "AlchemistDesk.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

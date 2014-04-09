@@ -1,0 +1,38 @@
+{
+  "objectName" : "target10object",
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "objectType" : "wire",
+
+  "category" : "animal",
+  "price" : 300,
+ "description" : "A target for target practice, layered with Impervium armor. Very high-tech.",
+  "shortdescription" : "Impervium Target",
+  "race" : "generic",
+
+  "apexDescription" : "I'll pretend it's a Miniknog agent.",
+  "avianDescription" : "I'll bet I can hit the bullseye.",
+  "floranDescription" : "Floran sssmash circle!",
+  "glitchDescription" : "Statement. An archery target.",
+  "humanDescription" : "Lets win a prize!",
+  "hylotlDescription" : "Perfect opportunity to practice my marksmanship.",
+
+  "inventoryIcon" : "target10icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "target10icon.png",
+
+      "imagePosition" : [-9, -9],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "scripts" : ["/objects/targetspawn.lua"],
+  "scriptDelta" : 5,
+
+  "monsterType" : "target10"
+}

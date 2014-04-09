@@ -1,0 +1,10 @@
+{
+  "kind" : "elixirofantstrength",
+  "primitives" : [
+    {
+      "name" : "powerboost"
+    }
+  ],
+  "effectSources" : [ "elixirofantstrength" ],
+  "mainInterfaceIcon" : "/interface/statuses/defence.png"
+}

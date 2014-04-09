@@ -1,0 +1,9 @@
+{
+  "itemName" : "pink-dye",
+  "rarity" : "uncommon",
+  "category" : "Dye",
+  "race" : "generic",
+  "inventoryIcon" : "pink-dye.png",
+  "description" : "A pink dye.",
+  "shortdescription" : "Pink Dye"
+}

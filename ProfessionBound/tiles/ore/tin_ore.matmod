@@ -1,0 +1,10 @@
+{
+  "modId" : 1496001,
+  "modName" : "tin_ore",
+  "frames" : "tin_ore.png",
+  "variants" : 8,
+  "itemDrop" : "tin_ore",
+  "Description" : "Tin Ore.",
+  "health" : 9,
+  "breaksWithTile" : true
+}

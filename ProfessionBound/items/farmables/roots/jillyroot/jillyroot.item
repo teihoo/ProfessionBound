@@ -1,0 +1,8 @@
+{
+  "itemName" : "jillyroot",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "inventoryIcon" : "jillyroot.png",
+  "description" : "Grown roots can be used in recipes.",
+  "shortdescription" : "Jilly Root"
+}

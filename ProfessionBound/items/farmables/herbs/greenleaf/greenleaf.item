@@ -1,0 +1,8 @@
+{
+  "itemName" : "greenleaf",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "inventoryIcon" : "greenleaf.png",
+  "description" : "Herbs are useful for many recipes!",
+  "shortdescription" : "Greenleaf Herb"
+}

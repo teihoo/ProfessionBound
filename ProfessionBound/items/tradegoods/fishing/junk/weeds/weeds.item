@@ -1,0 +1,7 @@
+{
+  "itemName" : "weeds",
+  "rarity" : "Common",
+  "inventoryIcon" : "weeds.png",
+  "description" : "Snagged, some underwater weeds.",
+  "shortdescription" : "Weeds"
+}

@@ -1,0 +1,37 @@
+{
+  "objectName" : "tanningrack",
+  "printable" : false,
+  "rarity" : "common",
+  "objectType" : "interactable",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/TanningRack.config",
+    "filter" : [ "leathercrafting" ]
+  },
+  "description" : "Create leather!",
+  "shortdescription" : "Tanning Rack",
+  "race" : "generic",
+  "category" : "crafting",
+
+  "apexDescription" : "Tanning Rack, create many things! Early alpha table!",
+  "avianDescription" : "Tanning Rack, create many things! Early alpha table!",
+  "floranDescription" : "Tanning Rack, create many things! Early alpha table!",
+  "glitchDescription" : "Tanning Rack, create many things! Early alpha table!",
+  "humanDescription" : "Tanning Rack, create many things! Early alpha table!",
+  "hylotlDescription" : "Tanning Rack, create many things! Early alpha table!",
+
+  "inventoryIcon" : "tanningrackicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "tanningrack.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "input" : [
+	{ "item" : "rope", "count" : 4 },
+	{ "item" : "darkwoodmaterial", "count" : 2 },
+	{ "item" : "money", "count" : 1500 }
+  ],
+  "output" : {
+    "item" : "tanningrack",
+    "count" : 1
+  },
+  "groups" : [ "plain", "objects", "all", "tools" ]
+}

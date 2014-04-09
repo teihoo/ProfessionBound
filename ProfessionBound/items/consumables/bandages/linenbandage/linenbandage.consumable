@@ -1,0 +1,15 @@
+{
+  "itemName" : "linenbandage",
+  "rarity" : "Common",
+  "inventoryIcon" : "linenbandage.png",
+  "description" : "A linen bandage for healing minor wounds.",
+  "shortdescription" : "Linen Bandage",
+  "effects" : [ [
+      {
+        "kind" : "linenbandage",
+        "amount" : 0.8
+      }
+    ] ],
+  "emote" : "Oh",
+  "emitters" : [ "linenbandageuse" ]
+}

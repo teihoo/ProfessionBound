@@ -1,0 +1,62 @@
+{
+  "fishTreasure" : [
+    [1, {
+         "pool" : [
+		  [0.54, [ "rawsmallfish", 1 ] ],
+		  [0.50, [ "rawsardine", 1 ] ],
+		  [0.46, [ "rawsunfish", 1 ] ],
+		  [0.42, [ "rawtrout", 1 ] ],
+		  [0.38, [ "rawcatfish", 1 ] ],
+		  [0.34, [ "rawbass", 1 ] ],
+		  [0.30, [ "rawsalmon", 1 ] ],
+		  [0.26, [ "rawsagefish", 1 ] ],
+		  [0.15, [ "rawdopyfish", 1 ] ],
+		  [0.10, [ "rawcavefish", 1 ] ],
+		  [0.07, [ "rawsquid", 1 ] ],
+		  [0.05, [ "rawgapper", 1 ] ],
+		  [0.02, [ "rawrocktail", 1 ] ],
+		  [0.01, [ "rawrainbowfish", 1 ] ],
+		  [0.05, [ "prizedcatfish", 1 ] ],
+		  [0.44, [ "fishscale", 1 ] ],
+		  [0.18, [ "linen_cloth", 1 ] ],
+		  [0.15, [ "wool_cloth", 1 ] ],
+		  [0.12, [ "silk_cloth", 1 ] ],
+		  [0.10, [ "bolt_of_linen_cloth", 1 ] ],
+		  [0.08, [ "bolt_of_wool_cloth", 1 ] ],
+		  [0.06, [ "bolt_of_silk_cloth", 1 ] ],
+		  [0.15, [ "small_amethyst", 1 ] ],
+		  [0.15, [ "small_ruby", 1 ] ],
+		  [0.15, [ "small_topaz", 1 ] ],
+		  [0.15, [ "small_fluorite", 1 ] ],
+		  [0.15, [ "small_sapphire", 1 ] ],
+		  [0.15, [ "small_emerald", 1 ] ],
+		  [0.25, [ "minorenergypotion", 1 ] ],
+		  [0.25, [ "minorhealingpotion", 1 ] ],
+		  [0.20, [ "minorregenenergypotion", 1 ] ],
+		  [0.20, [ "minorregenhealingpotion", 1 ] ],
+		  [0.25, [ "flask_of_oil", 1 ] ],
+		  [0.25, [ "smallemptyflask", 1 ] ],
+		  [0.25, [ "smallwfilledflask", 1 ] ],
+		  [0.38, [ "brokencage", 1 ] ],
+		  [0.38, [ "brokenfishinghook", 1 ] ],
+		  [0.38, [ "brush", 1 ] ],
+		  [0.38, [ "driftwood", 1 ] ],
+		  [0.38, [ "emptyrumbottle", 1 ] ],
+		  [0.38, [ "jellyfish", 1 ] ],
+		  [0.27, [ "rawkelp", 1 ] ],
+		  [0.38, [ "oldboots", 1 ] ],
+		  [0.38, [ "sickfish", 1 ] ],
+		  [0.38, [ "tangledfishinglines", 1 ] ],
+		  [0.38, [ "torncloth", 1 ] ],
+		  [0.38, [ "trashbag", 1 ] ],
+		  [0.38, [ "weeds", 1 ] ]
+        ],
+        "poolRounds" : [
+          [0.23, 0],
+          [0.18, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ]
+}

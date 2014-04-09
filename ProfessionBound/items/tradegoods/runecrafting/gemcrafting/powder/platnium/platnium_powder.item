@@ -1,0 +1,8 @@
+{
+  "itemName" : "platnium_powder",
+  "rarity" : "uncommon",
+  "category" : "Gemcrafting",
+  "inventoryIcon" : "platnium_powder.png",
+  "description" : "Powders from ore crushed by a gemcrafter! Useful for stuff.",
+  "shortdescription" : "Platnium Powder"
+}

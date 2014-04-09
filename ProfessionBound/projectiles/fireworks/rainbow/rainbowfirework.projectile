@@ -1,0 +1,82 @@
+{
+  "projectileName" : "rainbowfirework",
+  "frames" : "rainbowfirework.png",
+  "animationCycle" : 0.3,
+  "level" : 1,
+  "physics" : "bullet",
+  "timeToLive" : 1,
+  "frameNumber" : 2,
+  "pointLight" : true,
+  "lightColor" : [255, 100, 0],
+  "speed" : 30,
+  "actionOnReap" : [
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/gun/rocketblast1.wav", "/sfx/gun/rocketblast2.wav", "/sfx/gun/rocketblast3.wav" ]
+    },
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/smoke/smoke.config"
+    },
+    {
+      "action" : "projectile",
+      "type" : "glowred",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "glowevening",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 45
+    },
+    {
+      "action" : "projectile",
+      "type" : "glowteal",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 90
+    },
+    {
+      "action" : "projectile",
+      "type" : "glowlime",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 135
+    },
+    {
+      "action" : "projectile",
+      "type" : "glowgrass",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 180
+    },
+    {
+      "action" : "projectile",
+      "type" : "glowflame",
+      "fuzzAngle" : 0,
+      "angleAdjust" : -45
+    },
+    {
+      "action" : "projectile",
+      "type" : "glowwood",
+      "fuzzAngle" : 0,
+      "angleAdjust" : -90
+    },
+    {
+      "action" : "projectile",
+      "type" : "glowgold",
+      "fuzzAngle" : 0,
+      "angleAdjust" : -135
+    },
+    {
+      "action" : "projectile",
+      "type" : "lightsilver",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 0
+    }
+  ],
+  "power" : 0,
+  "damageKind" : "plasma",
+  "damageType" : "ignoresdef",
+  "emitters" : [ "javelinred" ]
+}
+
+

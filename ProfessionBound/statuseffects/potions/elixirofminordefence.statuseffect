@@ -1,0 +1,10 @@
+{
+  "kind" : "elixirofminordefence",
+  "primitives" : [
+    {
+      "name" : "protection"
+    }
+  ],
+  "effectSources" : [ "elixirofminordefence" ],
+  "mainInterfaceIcon" : "/interface/statuses/defence.png"
+}

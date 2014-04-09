@@ -1,0 +1,9 @@
+{
+  "itemName" : "ancientspice",
+  "rarity" : "legendary",
+  "category" : "Cooking",
+  "race" : "generic",
+  "inventoryIcon" : "ancientspice.png",
+  "description" : "Try some spicy ancient spice's on your cooking.",
+  "shortdescription" : "Ancient Spice"
+}

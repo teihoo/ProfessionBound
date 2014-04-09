@@ -1,0 +1,9 @@
+{
+  "itemName" : "orangepowder",
+  "rarity" : "uncommon",
+  "category" : "Mortar Grinding",
+  "race" : "generic",
+  "inventoryIcon" : "orangepowder.png",
+  "description" : "A mystical powder, this might be useful stuff for crafting.",
+  "shortdescription" : "Orange Powder"
+}

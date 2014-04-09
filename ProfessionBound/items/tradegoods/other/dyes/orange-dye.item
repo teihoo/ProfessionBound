@@ -1,0 +1,9 @@
+{
+  "itemName" : "orange-dye",
+  "rarity" : "uncommon",
+  "category" : "Dye",
+  "race" : "generic",
+  "inventoryIcon" : "orange-dye.png",
+  "description" : "A orange dye.",
+  "shortdescription" : "Orange Dye"
+}

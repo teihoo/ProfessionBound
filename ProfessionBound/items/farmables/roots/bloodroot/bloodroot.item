@@ -1,0 +1,8 @@
+{
+  "itemName" : "bloodroot",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "inventoryIcon" : "bloodroot.png",
+  "description" : "Grown roots can be used in recipes.",
+  "shortdescription" : "Blood Root"
+}

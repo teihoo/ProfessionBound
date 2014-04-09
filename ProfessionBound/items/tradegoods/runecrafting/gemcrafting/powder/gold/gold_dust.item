@@ -1,0 +1,8 @@
+{
+  "itemName" : "gold_dust",
+  "rarity" : "uncommon",
+  "category" : "Gemcrafting",
+  "inventoryIcon" : "gold_dust.png",
+  "description" : "Powders from ore crushed by a gemcrafter! Useful for stuff.",
+  "shortdescription" : "Gold Dust"
+}

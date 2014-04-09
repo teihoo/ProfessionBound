@@ -1,0 +1,9 @@
+{
+  "itemName" : "wing",
+  "rarity" : "common",
+  "category" : "Cooking",
+  "race" : "generic",
+  "inventoryIcon" : "wing.png",
+  "description" : "A flyer wing, might be good for eating after cooking it..",
+  "shortdescription" : "Raw Flyer Wing"
+}

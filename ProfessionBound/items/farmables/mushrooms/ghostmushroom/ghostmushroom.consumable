@@ -1,0 +1,14 @@
+{
+  "itemName" : "ghostmushroom",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "inventoryIcon" : "ghostmushroomseedicon.png",
+  "description" : "I don't really know if I should eat this..",
+  "shortdescription" : "Ghost Mushroom",
+  "effects" : [ [
+      {
+        "kind" : "glow",
+        "amount" : 125
+      }
+    ] ]
+}

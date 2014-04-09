@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "light_hide", "count" : 1 },
+	{ "item" : "salt", "count" : 1 }
+  ],
+  "output" : { "item" : "cured_light_hide", "count" : 1 },
+  "groups" : [ "leathercrafting" ]
+}

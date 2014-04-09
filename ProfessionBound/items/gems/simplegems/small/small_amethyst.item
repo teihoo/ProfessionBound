@@ -1,0 +1,9 @@
+{
+  "itemName" : "small_amethyst",
+  "rarity" : "common",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "small_amethyst.png",
+  "description" : "A small Amethyst gem.",
+  "shortdescription" : "Small Amethyst Gem"
+}

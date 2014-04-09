@@ -1,0 +1,17 @@
+{
+  "projectileName" : "lightsilver",
+  "frames" : "lightsilver.png",
+  "animationCycle" : 0.3,
+  "level" : 1,
+  "physics" : "bullet",
+  "timeToLive" : 2,
+  "frameNumber" : 4,
+  "pointLight" : true,
+  "lightColor" : [255, 255, 255],
+  "speed" : 0,
+  "power" : 0,
+  "damageKind" : "plasma",
+  "damageType" : "ignoresdef"
+}
+
+

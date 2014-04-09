@@ -1,0 +1,14 @@
+{
+  "itemName" : "rawsunfish",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawsunfish.png",
+  "description" : "It's a raw fish...slimy.",
+  "shortdescription" : "Raw Sun Fish",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 45
+      }
+    ] ]
+}

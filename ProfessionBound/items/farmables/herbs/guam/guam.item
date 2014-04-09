@@ -1,0 +1,8 @@
+{
+  "itemName" : "guam",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "inventoryIcon" : "guam.png",
+  "description" : "Herbs are useful for many recipes!",
+  "shortdescription" : "Guam Herb"
+}

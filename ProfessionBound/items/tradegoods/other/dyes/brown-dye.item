@@ -1,0 +1,9 @@
+{
+  "itemName" : "brown-dye",
+  "rarity" : "rare",
+  "category" : "Dye",
+  "race" : "generic",
+  "inventoryIcon" : "brown-dye.png",
+  "description" : "A brown dye.",
+  "shortdescription" : "Brown Dye"
+}

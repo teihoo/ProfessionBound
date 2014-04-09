@@ -1,0 +1,35 @@
+{
+  "projectileName" : "tealfireworkspawner",
+  "physics" : "grenade",
+  "bounces" : -1,
+  "level" : 3,
+  "timeToLive" : 0.1,
+  "damageKindImage" : "icon.png",
+  "frames" : "tealfireworkspawner.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 1,
+  "speed" : 1,
+  "actionOnReap" : [
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/gun/rocket_fly.wav" ]
+    },
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/smoke/smoke.config"
+    },
+    {
+      "action" : "projectile",
+      "type" : "tealfirework",
+      "fuzzAngle" : 10,
+      "angleAdjust" : 180
+    }
+  ],
+  "power" : 0,
+  "piercing" : true,
+  "damageKind" : "default",
+  "damageType" : "ignoresdef",
+  "damagePoly" : [ [-36, 0], [-24, -24], [0, -36], [24, -24], [36, 0], [24, 24], [0, 36], [-24, 24] ],
+  "flippable" : true,
+  "universalDamage" : true
+}

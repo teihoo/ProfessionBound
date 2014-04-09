@@ -1,0 +1,21 @@
+{
+  "itemName" : "goldfireworkitem",
+  "rarity" : "Common",
+  "inventoryIcon" : "goldfireworkicon.png",
+  "image" : "goldlfireworkicon.png",
+  "shortdescription" : "Gold Firework",
+  "description" : "One of simpliest fireworks. This one is gold.",
+
+  "ammoUsage" : 1,
+
+  "edgeTrigger" : true,
+  "windupTime" : 0.0,
+  "cooldown" : 0.1,
+
+  "projectileType" : "goldfireworkspawner",
+  "projectileConfig" : {
+    "speed" : 0,
+    "power" : 0
+  }
+}
+

@@ -1,0 +1,18 @@
+{
+  "itemName" : "woodenhoe",
+  "inventoryIcon" : "woodenhoe.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A wooden hoe. Time for some gardening.",
+  "shortdescription" : "Wooden Hoe",
+  "inspectionKind" : "tool",
+  "largeImage" : "woodenhoebig.png",
+  "image" : "woodenhoe.png",
+  "handPosition" : [-7, -15],
+  "fireTime" : 0.25,
+  "blockRadius" : 3,
+  "altBlockRadius" : 1,
+  "twoHanded" : true,
+  "strikeSound" : "/sfx/tools/pickaxe_hit.wav"
+}

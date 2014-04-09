@@ -1,0 +1,9 @@
+{
+  "itemName" : "salt",
+  "rarity" : "common",
+  "category" : "Cooking",
+  "race" : "generic",
+  "inventoryIcon" : "salt.png",
+  "description" : "Mmmm. Finally food will taste good!",
+  "shortdescription" : "Salt"
+}

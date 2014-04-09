@@ -1,0 +1,10 @@
+{
+  "modId" : 1496009,
+  "modName" : "bloodofthemountain",
+  "frames" : "bloodofthemountain.png",
+  "variants" : 8,
+  "itemDrop" : "bloodofthemountain",
+  "Description" : "Blood of the Mountain",
+  "health" : 17,
+  "breaksWithTile" : false
+}

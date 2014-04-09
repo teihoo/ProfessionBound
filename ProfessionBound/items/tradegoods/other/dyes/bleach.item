@@ -1,0 +1,9 @@
+{
+  "itemName" : "bleach",
+  "rarity" : "Common",
+  "category" : "Dye",
+  "race" : "generic",
+  "inventoryIcon" : "bleach.png",
+  "description" : "Bleach is good for removing colours.",
+  "shortdescription" : "White Dye"
+}

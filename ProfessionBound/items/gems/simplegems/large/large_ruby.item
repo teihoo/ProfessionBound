@@ -1,0 +1,9 @@
+{
+  "itemName" : "large_Ruby",
+  "rarity" : "rare",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "large_Ruby.png",
+  "description" : "A large Ruby.",
+  "shortdescription" : "Large Ruby Gem"
+}

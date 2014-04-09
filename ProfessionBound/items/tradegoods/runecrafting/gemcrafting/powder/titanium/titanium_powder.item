@@ -1,0 +1,8 @@
+{
+  "itemName" : "titanium_powder",
+  "rarity" : "uncommon",
+  "category" : "Gemcrafting",
+  "inventoryIcon" : "titanium_powder.png",
+  "description" : "Powders from ore crushed by a gemcrafter! Useful for stuff.",
+  "shortdescription" : "Titanium Powder"
+}

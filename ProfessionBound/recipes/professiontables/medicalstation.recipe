@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 3 },
+    { "item" : "steelbar", "count" : 1 },
+	{ "item" : "money", "count" : 1500 }
+  ],
+  "output" : {
+    "item" : "MedicalStation",
+    "count" : 1
+  },
+  "groups" : [ "plain", "objects", "all", "tools" ]
+}

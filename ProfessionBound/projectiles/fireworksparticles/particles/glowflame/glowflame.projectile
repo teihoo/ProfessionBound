@@ -1,0 +1,16 @@
+{
+  "projectileName" : "glowflame",
+  "frames" : "glowflame.png",
+  "animationCycle" : 0.3,
+  "level" : 1,
+  "physics" : "bullet",
+  "timeToLive" : 2,
+  "frameNumber" : 4,
+  "pointLight" : false,
+  "speed" : 5,
+  "power" : 0,
+  "damageKind" : "plasma",
+  "damageType" : "ignoresdef"
+}
+
+

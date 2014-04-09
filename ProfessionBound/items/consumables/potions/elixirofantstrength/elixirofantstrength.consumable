@@ -1,0 +1,16 @@
+{
+  "itemName" : "elixirofantstrength",
+  "rarity" : "uncommon",
+  "level" : 1,
+  "inventoryIcon" : "elixirofantstrengthicon.png",
+  "description" : "Increase your strength for 16 seconds.",
+  "shortdescription" : "Elixir of Ant Strength",
+  "effects" : [ [
+      {
+        "kind" : "elixirofantstrength",
+		"duration" : 16
+      }
+    ] ],
+  "emote" : "Oh",
+  "emitters" : [ "elixirofantstrength" ]
+}

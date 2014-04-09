@@ -1,0 +1,9 @@
+{
+  "itemName" : "prismatic_rainbow_Gem",
+  "rarity" : "legendary",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "prismatic_rainbow_Gem.png",
+  "description" : "A powerful Prismatic Rainbow Gem.",
+  "shortdescription" : "Prismatic Rainbow Gem"
+}

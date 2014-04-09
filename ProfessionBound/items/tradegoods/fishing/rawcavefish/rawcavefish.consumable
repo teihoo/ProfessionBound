@@ -1,0 +1,14 @@
+{
+  "itemName" : "rawcavefish",
+  "rarity" : "uncommon",
+  "inventoryIcon" : "rawcavefish.png",
+  "description" : "It's a raw fish...slimy.",
+  "shortdescription" : "Raw Cave Fish",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 45
+      }
+    ] ]
+}

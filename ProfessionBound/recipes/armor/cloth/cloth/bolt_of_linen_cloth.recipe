@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "linen_cloth", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "bolt_of_linen_cloth",
+    "count" : 1
+  },
+  "groups" : [ "spinningwheel", "morecloth" ]
+}

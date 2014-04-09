@@ -1,0 +1,133 @@
+{
+  "type" : "petrobotchicken",
+
+  "categories" : [ "petrobotchicken" ],
+  "parts" : [ "body" ],
+
+  "animation" : "petrobotchicken.animation",
+  "projectiles" : "/monsters/projectiles.config",
+  "colors" : "/monsters/colors.config",
+  "reversed" : true,
+
+  "dropPools" : [ ],
+
+  "baseParameters" : {
+    "scripts" : [
+      "/monsters/capturepod.lua",
+      "/monsters/ground/groundMonster.lua",
+      "/scripts/stateMachine.lua",
+      "/scripts/util.lua",
+      "/scripts/vec2.lua",
+
+      "/monsters/ground/aggressState.lua",
+      "/monsters/ground/captiveState.lua",
+      "/monsters/ground/grazeState.lua",
+      "/monsters/ground/herdFleeState.lua",
+      "/monsters/ground/knockoutState.lua",
+      "/monsters/ground/wanderState.lua"
+    ],
+    "scriptDelta" : 5,	
+    "territoryDistance" : 40.0,
+    "territorialTargetRadius" : 20.0,
+    "minimalTargetRadius" : 6.0,
+    "targetSearchTime" : 0.5,
+    "targetHoldTime" : 5.0,
+
+    "closeDistance" : 6,
+
+    "wanderTime" : [4.0, 6.0],
+    "wanderMovementTime" : [2.0, 3.0],
+
+    "idleSoundTime" : [45.0, 60.0],
+    "painSoundTimer" : 2.0,
+
+    "jumpTargetDistance" : 4,
+    "jumpTime" : [0.8, 1.4],
+
+    "knockoutTime" : 1,
+    "knockoutEffect" : "blink",
+    "deathParticles" : "deathPoof",
+    "captureParticles" : "captured",
+    "levelUpParticles" : "levelUp",
+    "deathNoise" : [ "/sfx/projectiles/bubble_pop.wav" ],
+	
+    "exhaustionTimer" : 3.0,
+    "exhaustionTimeout" : 3.0,
+    "exhaustionDistanceLimit" : 1.0,
+    "wanderJumpProbability" : 0.001,
+
+
+    "captureHealthFraction" : 1.0,
+    "killsPerLevel" : 20
+  },
+
+  "variantParameters" : [  [
+	
+    [1, { 
+	 "metaBoundBox" : [-1.0, -1.0, 1.0, 1.0],
+	
+    "scale" : 1.0,
+	"statusParameters" : {
+      "baseMaxHealth" : 30,
+      "bodyMaterialKind" : "organic",
+      "damageConfig" : "/damage/damageresponse/groundnpc.config"
+        },
+	"movementSettings" : {
+      "collisionPoly" : [ [-1.0, -1.0], [1.0, -1.0], [1.0, 1.0], [-1.0, 1.0] ],
+      "mass" : 1.0,
+      "walkSpeed" : 7,
+      "runSpeed" :15,
+      "jumpSpeed" : 10,
+      "flySpeed" : 15,
+      "airFriction" : 0.15,
+      "airForce" : 100.0
+    },
+	"touchDamage" : {
+      "poly" : [ [-1.0, -1.0], [1.0, -1.0], [1.0, 1.0], [-1.0, 1.0] ],
+      "damage" : 5,
+
+      "teamType" : "friendly",
+      "damageSourceKind" : "bite",
+      "statusEffects" : [ ]
+    },
+    "blockedSensors" : [ [1.0, -1.0], [1.0, 0.2], [1.5, 0.7] ],
+    "fallSensors" : [ [0.5, -1.0], [0.5, -1.5], [0.5, -2.0], [2.0, -1.0], [2.0, -1.5], [2.0, -2.0] ],
+	"inateStatusEffects" : [
+      {
+        "kind" : "glowinitiator",
+        "amount" : 1.0
+      }
+                           ],
+    "mouthOffset" : [0, 0],
+    "feetOffset" : [0, -8]
+         }
+	] ] ],
+  
+  
+  
+   "familyParameters" : [ [
+	   {
+	   "attackStartDistance" : 7.0,
+        "attackMaxDistance" : 20,
+        "attackCooldownTime" : 0.5,
+        "skills" : [ ]
+      }
+     ]
+   ],
+  
+  "partParameterDescription" : {
+    "weightMultiplier" : [ "multiply", 1.0],
+    "walkMultiplier" : [ "multiply", 1.0],
+    "runMultiplier" : [ "multiply", 1.0],
+    "jumpMultiplier" : [ "multiply", 1.0],
+
+    "idleNoise" : [ "merge", [ ] ],
+    "turnHostileNoise" : [ "merge", [ ] ],
+    "attackNoise" : [ "merge", [ ] ],
+    "painNoise" : [ "merge", [ ] ],
+    "deathNoise" : [ "merge", [ ] ],
+
+    "projectileSourcePosition" : [ "override", [2.0, 0] ],
+    "skills" : [ "merge", [ ] ]
+  }
+}

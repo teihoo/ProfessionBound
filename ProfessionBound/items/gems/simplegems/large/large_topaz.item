@@ -1,0 +1,9 @@
+{
+  "itemName" : "large_Topaz",
+  "rarity" : "rare",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "large_Topaz.png",
+  "description" : "A large Topaz.",
+  "shortdescription" : "Large Topaz Gem"
+}

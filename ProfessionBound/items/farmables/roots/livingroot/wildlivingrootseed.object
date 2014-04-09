@@ -1,0 +1,76 @@
+{
+  "objectName" : "wildlivingrootseed",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "description" : "Grow living-root with this seed.",
+  "shortdescription" : "Living Root Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "objectItem" : "livingrootseed",
+
+  "inventoryIcon" : "livingrootseedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "livingrootseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "requireTilledAnchors" : false,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "interactionTransition" : {
+    "2" : {
+      "dropOptions" : [
+        0.3,
+        [
+          {
+            "name" : "livingroot",
+            "count" : 1
+          },
+          {
+            "name" : "livingrootseed",
+            "count" : 1
+          }
+        ],
+        [
+          {
+            "name" : "toxicflower",
+            "count" : 1
+          },
+          {
+            "name" : "plantfibre",
+            "count" : 1
+          }
+        ],
+        [
+          {
+            "name" : "toxicflower",
+            "count" : 1
+          }
+        ]
+      ],
+      "command" : "die"
+    }
+  },
+  "growing" : {
+    "0" : {
+      "duration" : [300, 420],
+      "success" : 1,
+      "failure" : 3
+    },
+    "1" : {
+      "duration" : [300, 420],
+      "success" : 2,
+      "failure" : 3
+    }
+  },
+  "stageAlts" : {
+    "count" : 4,
+    "2" : 5
+  }
+}

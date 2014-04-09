@@ -1,0 +1,9 @@
+{
+  "itemName" : "deathrune",
+  "rarity" : "uncommon",
+  "category" : "Rune",
+  "race" : "generic",
+  "description" : "Runes are useful for many powerful creations.",
+  "inventoryIcon" : "deathrune.png",
+  "shortdescription" : "Death Rune"
+}

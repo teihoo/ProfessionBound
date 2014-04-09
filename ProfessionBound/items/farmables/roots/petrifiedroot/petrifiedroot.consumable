@@ -1,0 +1,14 @@
+{
+  "itemName" : "petrifiedroot",
+  "rarity" : "Common",
+  "category" : "Farmable",
+  "inventoryIcon" : "petrifiedrooticon.png",
+  "description" : "I don't really know if I should eat this..",
+  "shortdescription" : "Petrified Root",
+  "effects" : [ [
+      {
+        "kind" : "glow",
+        "amount" : 125
+      }
+    ] ]
+}

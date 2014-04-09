@@ -1,0 +1,9 @@
+{
+  "itemName" : "toxicfishoil",
+  "rarity" : "rare",
+  "category" : "Other",
+  "race" : "generic",
+  "inventoryIcon" : "toxicfishoil.png",
+  "description" : "This fish oil seems to contain to many toxins, this might prove useful for many creations!",
+  "shortdescription" : "Toxic Fish Oil"
+}

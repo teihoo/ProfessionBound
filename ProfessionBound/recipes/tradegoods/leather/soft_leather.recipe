@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "leather_scraps", "count" : 3 }
+  ],
+  "output" : { "item" : "soft_leather", "count" : 1 },
+  "groups" : [ "leathercrafting" ]
+}

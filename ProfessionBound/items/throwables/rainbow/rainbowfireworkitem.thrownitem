@@ -1,0 +1,21 @@
+{
+  "itemName" : "rainbowfireworkitem",
+  "rarity" : "Common",
+  "inventoryIcon" : "rainbowfireworkicon.png",
+  "image" : "rainbowfireworkicon.png",
+  "shortdescription" : "Rainbow Firework",
+  "description" : "A precious rainbow firework. Maky my cry.",
+
+  "ammoUsage" : 1,
+
+  "edgeTrigger" : true,
+  "windupTime" : 0.0,
+  "cooldown" : 0.1,
+
+  "projectileType" : "rainbowfireworkspawner",
+  "projectileConfig" : {
+    "speed" : 0,
+    "power" : 0
+  }
+}
+

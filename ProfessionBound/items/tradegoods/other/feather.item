@@ -1,0 +1,9 @@
+{
+  "itemName" : "feather",
+  "rarity" : "uncommon",
+  "category" : "Reagents",
+  "race" : "generic",
+  "inventoryIcon" : "feather.png",
+  "description" : "Feather, found from hunting a flying monster at night time. Probably gave him a good scare!",
+  "shortdescription" : "Feather"
+}

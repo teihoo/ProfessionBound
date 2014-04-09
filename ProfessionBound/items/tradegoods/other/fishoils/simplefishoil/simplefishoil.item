@@ -1,0 +1,9 @@
+{
+  "itemName" : "simplefishoil",
+  "rarity" : "common",
+  "category" : "Other",
+  "race" : "generic",
+  "inventoryIcon" : "simplefishoil.png",
+  "description" : "Some simple fish oil but still useful.",
+  "shortdescription" : "Simple Fish Oil"
+}

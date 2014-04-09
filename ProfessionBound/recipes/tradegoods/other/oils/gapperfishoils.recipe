@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "rawgapper", "count" : 1 }
+  ],
+  "output" : { "item" : "toxicfishoil", "count" : 1 },
+  "groups" : [ "mortargrinding" ]
+}

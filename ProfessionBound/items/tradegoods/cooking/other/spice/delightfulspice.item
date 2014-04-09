@@ -1,0 +1,9 @@
+{
+  "itemName" : "delightfulspice",
+  "rarity" : "uncommon",
+  "category" : "Cooking",
+  "race" : "generic",
+  "inventoryIcon" : "delightfulspice.png",
+  "description" : "Try some sweat spices ironically these spices will have you coming back for more!",
+  "shortdescription" : "Delightful Spice"
+}

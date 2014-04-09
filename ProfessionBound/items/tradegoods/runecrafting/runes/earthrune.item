@@ -1,0 +1,9 @@
+{
+  "itemName" : "earthrune",
+  "rarity" : "common",
+  "category" : "Rune",
+  "race" : "generic",
+  "description" : "Runes are useful for many powerful creations.",
+  "inventoryIcon" : "earthrune.png",
+  "shortdescription" : "Earth Rune"
+}

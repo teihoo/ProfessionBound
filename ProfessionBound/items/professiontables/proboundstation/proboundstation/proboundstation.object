@@ -1,0 +1,28 @@
+{
+  "objectName" : "proboundstation",
+  "rarity" : "uncommon",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/proboundstation.config",
+    "filter" : [ "proboundstation", "alchemyunlocks", "engineeringunlocks", "farmingunlocks", "medicalunlocks", "runecraftingunlocks", "leathercraftingunlocks" ]
+  },
+
+  "description" : "This station can be placed on walls, and is useful if you wish to unlock more blueprints, items, weapons, etc.",
+  "shortdescription" : "Pro-Bound Redeem Station",
+  "race" : "generic",
+  "category" : "Wall Station",
+
+  "inventoryIcon" : "proboundstationicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "proboundstation.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "frames" : 8,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+	"frameCooldown" : 11,
+    "autoCloseCooldown" : 3600
+}

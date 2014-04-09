@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "large_Amethyst", "count" : 1 },
+	{ "item" : "large_Emerald", "count" : 1 },
+	{ "item" : "large_Fluorite", "count" : 1 },
+	{ "item" : "large_Ruby", "count" : 1 },
+	{ "item" : "large_Sapphire", "count" : 1 },
+	{ "item" : "large_Topaz", "count" : 1 }
+  ],
+  "output" : { "item" : "prismatic_rainbow_Gem", "count" : 1 },
+  "groups" : [ "gemupgrade" ]
+}

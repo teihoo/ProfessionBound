@@ -1,0 +1,8 @@
+{
+  "itemName" : "cotton_thread",
+  "rarity" : "Common",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "cotton_thread.png",
+  "shortdescription" : "Cotton Thread"
+}

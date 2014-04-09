@@ -1,0 +1,9 @@
+{
+  "itemName" : "mildspice",
+  "rarity" : "uncommon",
+  "category" : "Cooking",
+  "race" : "generic",
+  "inventoryIcon" : "mildspice.png",
+  "description" : "These spices are not to hot, just right many would say mild is the stuff.",
+  "shortdescription" : "Mild Spice"
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "target0object", "count" : 1 },
+	{ "item" : "steelbar", "count" : 2 }
+  ],
+  "output" : { "item" : "target2object", "count" : 1 },
+  "groups" : [ "metalworkstation", "objects" ]
+}

@@ -1,0 +1,8 @@
+{
+  "itemName" : "elemental_water",
+  "rarity" : "Common",
+  "category" : "Elemental",
+  "race" : "generic",
+  "inventoryIcon" : "elemental_water.png",
+  "shortdescription" : "Elemental Water"
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "firerune",
+  "rarity" : "common",
+  "category" : "Rune",
+  "race" : "generic",
+  "description" : "Runes are useful for many powerful creations.",
+  "inventoryIcon" : "firerune.png",
+  "shortdescription" : "Fire Rune"
+}

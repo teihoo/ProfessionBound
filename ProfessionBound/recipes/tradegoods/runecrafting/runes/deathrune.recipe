@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "destructionrune", "count" : 1 },
+	{ "item" : "firerune", "count" : 2 }
+  ],
+  "output" : { "item" : "deathrune", "count" : 3 },
+  "groups" : [ "runecrafting" ]
+}

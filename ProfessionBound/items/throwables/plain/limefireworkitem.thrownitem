@@ -1,0 +1,21 @@
+{
+  "itemName" : "limefireworkitem",
+  "rarity" : "Common",
+  "inventoryIcon" : "limefireworkicon.png",
+  "image" : "limefireworkicon.png",
+  "shortdescription" : "Lime Firework",
+  "description" : "One of simpliest fireworks. This one is lime.",
+
+  "ammoUsage" : 1,
+
+  "edgeTrigger" : true,
+  "windupTime" : 0.0,
+  "cooldown" : 0.1,
+
+  "projectileType" : "limefireworkspawner",
+  "projectileConfig" : {
+    "speed" : 0,
+    "power" : 0
+  }
+}
+

@@ -1,0 +1,9 @@
+{
+  "itemName" : "bolt_of_silk_cloth",
+  "rarity" : "uncommon",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "bolt_of_silk_cloth.png",
+  "description" : "Made up from a bunch of silk cloth.",
+  "shortdescription" : "Bolt of Silk Cloth"
+}

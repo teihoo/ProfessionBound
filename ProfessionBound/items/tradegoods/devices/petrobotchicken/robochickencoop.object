@@ -1,0 +1,34 @@
+{
+  "objectName" : "robochickencoop",
+  "rarity" : "uncommon",
+  "description" : "Looks like a chicken coop, but not no chicken poop nearby? Why?",
+  "shortdescription" : "Chicken Coop",
+  "race" : "generic",
+  "category" : "object",
+  "printable" : false,
+
+  "inventoryIcon" : "chickencoopicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "chickencoop.png",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "animation" : "chickencoop.animation",
+  "animationParts" : {
+    "beacon" : "chickencoop.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "scripts" : [ "chickencoop.lua" ],
+  "scriptDelta" : 5
+
+}

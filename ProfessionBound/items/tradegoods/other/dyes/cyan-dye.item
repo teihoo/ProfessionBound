@@ -1,0 +1,9 @@
+{
+  "itemName" : "cyan-dye",
+  "rarity" : "uncommon",
+  "category" : "Dye",
+  "race" : "generic",
+  "inventoryIcon" : "cyan-dye.png",
+  "description" : "A cyan dye.",
+  "shortdescription" : "Cyan Dye"
+}

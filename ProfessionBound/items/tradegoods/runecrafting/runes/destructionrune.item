@@ -1,0 +1,9 @@
+{
+  "itemName" : "destructionrune",
+  "rarity" : "legendary",
+  "category" : "Rune",
+  "race" : "generic",
+  "description" : "Runes are useful for many powerful creations.",
+  "inventoryIcon" : "destructionrune.png",
+  "shortdescription" : "Destruction Rune"
+}

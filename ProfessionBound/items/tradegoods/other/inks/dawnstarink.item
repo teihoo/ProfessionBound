@@ -1,0 +1,9 @@
+{
+  "itemName" : "dawnstarink",
+  "rarity" : "uncommon",
+  "category" : "Reagents",
+  "race" : "generic",
+  "inventoryIcon" : "dawnstarink.png",
+  "description" : "Dawnstar Ink. A writing ink for the greatest of crafts.",
+  "shortdescription" : "Dawnstar Ink"
+}

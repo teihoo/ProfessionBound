@@ -1,0 +1,10 @@
+{
+  "modId" : 1496004,
+  "modName" : "ruby_gem",
+  "frames" : "ruby_gem.png",
+  "variants" : 8,
+  "itemDrop" : "small_Ruby",
+  "Description" : "This ore contains a gem.",
+  "health" : 15,
+  "breaksWithTile" : true
+}

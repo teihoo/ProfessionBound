@@ -1,0 +1,9 @@
+{
+  "itemName" : "exoticfishoil",
+  "rarity" : "legendary",
+  "category" : "Other",
+  "race" : "generic",
+  "inventoryIcon" : "exoticfishoil.png",
+  "description" : "This fish oil seems very mystical, this seems very powerful as its glowing.",
+  "shortdescription" : "Exotic Fish Oil"
+}

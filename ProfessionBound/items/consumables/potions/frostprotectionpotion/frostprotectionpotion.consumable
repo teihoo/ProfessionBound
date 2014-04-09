@@ -1,0 +1,17 @@
+{
+  "itemName" : "frostprotectionpotion",
+  "rarity" : "common",
+  "level" : 1,
+  "inventoryIcon" : "frostprotectionpotionicon.png",
+  "description" : "Increase your movement speed for 12 seconds.",
+  "shortdescription" : "Frost Protection Potion",
+  "effects" : [ [
+      {
+        "kind" : "frostprotectionpotion",
+		"duration" : 60,
+		"amount" : 200
+      }
+    ] ],
+  "emote" : "Oh",
+  "emitters" : [ "frostprotectionpotion" ]
+}

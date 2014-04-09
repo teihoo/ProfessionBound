@@ -1,0 +1,17 @@
+{
+  "projectileName" : "lightgrass",
+  "frames" : "lightgrass.png",
+  "animationCycle" : 0.3,
+  "level" : 1,
+  "physics" : "bullet",
+  "timeToLive" : 2,
+  "frameNumber" : 4,
+  "pointLight" : true,
+  "lightColor" : [220, 255, 0],
+  "speed" : 0,
+  "power" : 0,
+  "damageKind" : "plasma",
+  "damageType" : "ignoresdef"
+}
+
+

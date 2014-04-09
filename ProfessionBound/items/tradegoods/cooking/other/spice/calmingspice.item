@@ -1,0 +1,9 @@
+{
+  "itemName" : "calmingspice",
+  "rarity" : "common",
+  "category" : "Cooking",
+  "race" : "generic",
+  "inventoryIcon" : "calmingspice.png",
+  "description" : "Not all spice needs to be hot to be good!",
+  "shortdescription" : "Calming Spice"
+}

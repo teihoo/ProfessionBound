@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "small_Sapphire", "count" : 3 }
+  ],
+  "output" : { "item" : "medium_Sapphire", "count" : 1 },
+  "groups" : [ "gemupgrade" ]
+}

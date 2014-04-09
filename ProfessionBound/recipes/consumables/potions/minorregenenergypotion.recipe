@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "greenpowder", "count" : 1 },
+	{ "item" : "redpowder", "count" : 1 },
+	{ "item" : "silverleaf", "count" : 1 },
+	{ "item" : "smallwfilledflask", "count" : 1 }
+  ],
+  "output" : { "item" : "minorenergypotion", "count" : 1 },
+  "groups" : [ "potions" ]
+}

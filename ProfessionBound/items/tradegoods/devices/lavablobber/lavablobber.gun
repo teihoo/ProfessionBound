@@ -1,0 +1,22 @@
+{
+"itemName" : "LavaBlobber",
+"inventoryIcon" : "MagmaBlobberIconImage.png",
+"shortdescription" : "Lava Blobber",
+"description" : "Convert energy to to create some hot magma blobs!",
+"dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+"maxStack" : 1,
+"level" : 3,
+"rarity" : "common",
+"inspectionKind" : "gun",
+"weaponType" : "Engineering Gadget",
+"image" : "MagmaBlobber.png",
+"recoilTime" : 0.1,
+"classMultiplier" : 0.1,
+"handPosition" : [-3, 0],
+"firePosition" : [12, 3],
+"fireTime" : 0.9,
+"twoHanded" : true,
+"projectileType" : "lava_blob",
+"projectile" : {"power" : 65,"speed" : 30,"color" : [10, 136, 191]},
+"muzzleEffect" : {"animation" : "/animations/muzzleflash/gunmuzzleflash/MuzzleFlashImage.animation","fireSound" : [ { "file" : "/sfx/BooLaaDoop.wav" } ]}
+}

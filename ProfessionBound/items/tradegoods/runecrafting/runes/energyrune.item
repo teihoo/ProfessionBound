@@ -1,0 +1,9 @@
+{
+  "itemName" : "energyrune",
+  "rarity" : "uncommon",
+  "category" : "Rune",
+  "race" : "generic",
+  "description" : "Runes are useful for many powerful creations.",
+  "inventoryIcon" : "energyrune.png",
+  "shortdescription" : "Energy Rune"
+}

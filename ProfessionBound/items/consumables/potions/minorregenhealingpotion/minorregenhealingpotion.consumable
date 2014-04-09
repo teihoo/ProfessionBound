@@ -1,0 +1,15 @@
+{
+  "itemName" : "minorregenhealingpotion",
+  "rarity" : "uncommon",
+  "level" : 1,
+  "inventoryIcon" : "minorregenhealingpotionicon.png",
+  "description" : "Restores 10.6 health.",
+  "shortdescription" : "Minor Healing Potion",
+  "effects" : [ [
+      {
+        "kind" : "minorregenhealingpotion"
+      }
+    ] ],
+  "emote" : "Oh",
+  "emitters" : [ "minorregenhealingpotion" ]
+}

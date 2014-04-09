@@ -1,0 +1,24 @@
+{
+  "objectName" : "smallemptyflask",
+  "rarity" : "Common",
+  "category" : "Flask",
+  "price" : 125,
+  "description" : "An empty flask.",
+  "shortdescription" : "Empty Flask",
+  "race" : "generic",
+
+  "inventoryIcon" : "smallemptyflaskicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "smallemptyflask.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

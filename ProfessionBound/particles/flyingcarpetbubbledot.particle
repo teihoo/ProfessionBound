@@ -1,0 +1,22 @@
+{
+  "kind" : "flyingcarpetbubbledot",
+  "definition" : {
+    "type" : "ember",
+    "position" : [0, -3],
+    "size" : 0.5,
+    "color" : [243, 218, 10, 128],
+    "fade" : 0.9,
+    "destructionAction" : "shrink",
+    "destructionTime" : 4,
+    "initialVelocity" : [0, 0.0],
+    "finalVelocity" : [0, 0.0],
+    "approach" : [0, 20],
+    "timeToLive" : 0.8,
+    "light" : [14, 47, 72],
+    "layer" : "back",
+    "variance" : {
+      "initialVelocity" : [8, 6.0],
+      "size" : 2
+    }
+  }
+}

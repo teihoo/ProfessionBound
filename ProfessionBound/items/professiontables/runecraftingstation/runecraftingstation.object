@@ -1,0 +1,37 @@
+{
+  "objectName" : "RunecraftingStation",
+  "printable" : false,
+  "rarity" : "uncommon",
+  "objectType" : "interactable",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/RunecraftingStation.config",
+    "filter" : [ "gemupgrade", "runecrafting", "runecrafting-es", "runecrafting-a", "runeforge", "techtablet", "salvage", "morercstuff" ]
+  },
+  "description" : "Create things beyond this cosmos and the next with this table!",
+  "shortdescription" : "Runecrafting Station",
+  "race" : "generic",
+  "category" : "crafting",
+
+  "apexDescription" : "Runecrafting Station, create many things! Early alpha table!",
+  "avianDescription" : "Runecrafting Station, create many things! Early alpha table!",
+  "floranDescription" : "Runecrafting Station, create many things! Early alpha table!",
+  "glitchDescription" : "Runecrafting Station, create many things! Early alpha table!",
+  "humanDescription" : "Runecrafting Station, create many things! Early alpha table!",
+  "hylotlDescription" : "Runecrafting Station, create many things! Early alpha table!",
+
+  "inventoryIcon" : "RunecraftingStationicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "RunecraftingStation.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

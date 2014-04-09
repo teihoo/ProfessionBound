@@ -1,0 +1,9 @@
+{
+  "itemName" : "mooncloth",
+  "rarity" : "uncommon",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "mooncloth.png",
+  "description" : "Moon Cloth. Not quiet as good as star cloth.",
+  "shortdescription" : "Moon Cloth"
+}

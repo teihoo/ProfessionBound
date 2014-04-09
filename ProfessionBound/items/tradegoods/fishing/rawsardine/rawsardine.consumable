@@ -1,0 +1,14 @@
+{
+  "itemName" : "rawsardine",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawsardine.png",
+  "description" : "It's a raw fish...slimy.",
+  "shortdescription" : "Raw Sardine Fish",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 45
+      }
+    ] ]
+}

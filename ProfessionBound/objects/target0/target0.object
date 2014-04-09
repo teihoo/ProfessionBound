@@ -1,0 +1,38 @@
+{
+  "objectName" : "target0object",
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "objectType" : "wire",
+
+  "category" : "animal",
+  "price" : 300,
+  "description" : "A wooden target for target practice. Quite fragile.",
+  "shortdescription" : "Wooden Target",
+  "race" : "generic",
+
+  "apexDescription" : "I'll pretend it's a Miniknog agent.",
+  "avianDescription" : "I'll bet I can hit the bullseye.",
+  "floranDescription" : "Floran sssmash circle!",
+  "glitchDescription" : "Statement. An archery target.",
+  "humanDescription" : "Lets win a prize!",
+  "hylotlDescription" : "Perfect opportunity to practice my marksmanship.",
+
+  "inventoryIcon" : "target0icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "target0icon.png",
+
+      "imagePosition" : [-9, -9],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  
+  "scripts" : ["/objects/targetspawn.lua"],
+  "scriptDelta" : 5,
+
+  "monsterType" : "target0"
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "medium_Sapphire",
+  "rarity" : "uncommon",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "medium_Sapphire.png",
+  "description" : "A medium Sapphire.",
+  "shortdescription" : "Medium Sapphire Gem"
+}

@@ -1,0 +1,7 @@
+{
+  "itemName" : "bronze_bar",
+  "rarity" : "uncommon",
+  "inventoryIcon" : "bronze_bar.png",
+  "description" : "It's a bronze bar.",
+  "shortdescription" : "Bronze Bar"
+}

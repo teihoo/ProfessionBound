@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "medium_Fluorite", "count" : 3 }
+  ],
+  "output" : { "item" : "large_Fluorite", "count" : 1 },
+  "groups" : [ "gemupgrade" ]
+}

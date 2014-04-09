@@ -1,0 +1,10 @@
+{
+  "modId" : 1496010,
+  "modName" : "pyrite",
+  "frames" : "pyrite.png",
+  "variants" : 8,
+  "itemDrop" : "pyriteore",
+  "Description" : "Pyrite",
+  "health" : 15,
+  "breaksWithTile" : true
+}

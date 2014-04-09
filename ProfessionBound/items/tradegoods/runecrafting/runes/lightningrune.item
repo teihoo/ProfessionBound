@@ -1,0 +1,9 @@
+{
+  "itemName" : "lightningrune",
+  "rarity" : "uncommon",
+  "category" : "Rune",
+  "race" : "generic",
+  "description" : "Runes are useful for many powerful creations.",
+  "inventoryIcon" : "lightningrune.png",
+  "shortdescription" : "Lightning Rune"
+}

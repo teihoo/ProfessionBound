@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "petrobotchicken",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "petrobotchicken.png"
+  }
+}

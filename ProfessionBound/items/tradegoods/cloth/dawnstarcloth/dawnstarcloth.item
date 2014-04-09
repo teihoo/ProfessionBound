@@ -1,0 +1,9 @@
+{
+  "itemName" : "dawnstarcloth",
+  "rarity" : "rare",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "dawnstarcloth.png",
+  "description" : "Dawnstar Cloth.",
+  "shortdescription" : "Dawnstar Cloth"
+}

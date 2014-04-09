@@ -1,0 +1,14 @@
+{
+  "itemName" : "yellowfoot",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "inventoryIcon" : "yellowfoot.png",
+  "description" : "I don't really know if I should eat this..",
+  "shortdescription" : "Yellow-foot Mushroom",
+  "effects" : [ [
+      {
+        "kind" : "elixirofthelynx",
+        "amount" : 20
+      }
+    ] ]
+}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "medium_Topaz", "count" : 3 }
+  ],
+  "output" : { "item" : "large_Topaz", "count" : 1 },
+  "groups" : [ "gemupgrade" ]
+}

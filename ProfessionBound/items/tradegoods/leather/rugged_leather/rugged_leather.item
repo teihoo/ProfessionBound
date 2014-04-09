@@ -1,0 +1,8 @@
+{
+  "itemName" : "rugged_leather",
+  "rarity" : "uncommon",
+  "category" : "Leathercrafting",
+  "inventoryIcon" : "rugged_leather.png",
+  "description" : "Can be used for other recipes with the tanning rack.",
+  "shortdescription" : "Rugged Leather"
+}

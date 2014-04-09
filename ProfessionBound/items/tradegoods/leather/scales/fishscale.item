@@ -1,0 +1,9 @@
+{
+  "itemName" : "fishscale",
+  "rarity" : "Common",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "fishscale.png",
+  "description" : "A scale from a fish.",
+  "shortdescription" : "Fish Scale"
+}

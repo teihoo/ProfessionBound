@@ -1,0 +1,9 @@
+{
+  "itemName" : "small_venom_sack",
+  "rarity" : "uncommon",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "small_venom_sack.png",
+  "description" : "A small venom sac, this might be useful for creating stuff.",
+  "shortdescription" : "Small Venom Sac"
+}

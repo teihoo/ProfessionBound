@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 750 },
+    { "item" : "bloodofthemountainore", "count" : 1 },
+	{ "item" : "waterrune", "count" : 1 },
+	{ "item" : "earthrune", "count" : 1 },
+	{ "item" : "firerune", "count" : 1 },
+	{ "item" : "windrune", "count" : 1 },
+	{ "item" : "lightningrune", "count" : 1 }
+  ],
+  "output" : { "item" : "bloodofthemountainforgedbar", "count" : 1 },
+  "groups" : [ "stonefurnace", "all" ]
+}

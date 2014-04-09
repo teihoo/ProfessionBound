@@ -1,0 +1,8 @@
+{
+  "itemName" : "diamond_powder",
+  "rarity" : "uncommon",
+  "category" : "Gemcrafting",
+  "inventoryIcon" : "diamond_powder.png",
+  "description" : "Powders from ore crushed by a gemcrafter! Useful for stuff.",
+  "shortdescription" : "Diamond Powder"
+}

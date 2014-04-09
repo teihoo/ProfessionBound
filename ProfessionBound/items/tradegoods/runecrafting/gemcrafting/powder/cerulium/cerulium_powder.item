@@ -1,0 +1,8 @@
+{
+  "itemName" : "cerulium_powder",
+  "rarity" : "rare",
+  "category" : "Gemcrafting",
+  "inventoryIcon" : "cerulium_powder.png",
+  "description" : "Powders from ore crushed by a gemcrafter! Useful for stuff.",
+  "shortdescription" : "Cerulium Powder"
+}

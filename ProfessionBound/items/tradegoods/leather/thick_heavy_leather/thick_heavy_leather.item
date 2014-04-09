@@ -1,0 +1,8 @@
+{
+  "itemName" : "thick_heavy_leather",
+  "rarity" : "uncommon",
+  "category" : "Leathercrafting",
+  "inventoryIcon" : "thick_heavy_leather.png",
+  "description" : "Can be used for other recipes with the tanning rack.",
+  "shortdescription" : "Thick Heavy Leather"
+}

@@ -1,0 +1,11 @@
+{
+  "kind" : "frostprotectionpotion",
+  "primitives" : [
+    {
+      "name" : "ColdProtection"
+    }
+  ],
+  "effectSources" : [ "frostprotectionpotion" ],
+  "mainInterfaceIcon" : "/interface/statuses/warm.png"
+}
+

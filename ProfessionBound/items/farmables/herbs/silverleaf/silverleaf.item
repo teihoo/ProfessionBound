@@ -1,0 +1,8 @@
+{
+  "itemName" : "silverleaf",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "inventoryIcon" : "silverleaf.png",
+  "description" : "Herbs are useful for many recipes!",
+  "shortdescription" : "Silverleaf Herb"
+}

@@ -1,0 +1,8 @@
+{
+  "itemName" : "cotton",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "inventoryIcon" : "cotton.png",
+  "description" : "This cotton is some basic stuff but useful in many things!",
+  "shortdescription" : "Cotton"
+}

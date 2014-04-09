@@ -1,0 +1,171 @@
+{
+
+  "target0treasure" : [
+    [1, {
+        "pool" : [
+          [1, [ "target0object", 1] ]
+        
+        ],
+        "poolRounds" : [
+     [1, 1]
+
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ],
+   "target1treasure" : [
+    [1, {
+        "pool" : [
+          [1, [ "target1object", 1] ]
+        
+        ],
+        "poolRounds" : [
+     [1, 1]
+
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ],
+   "target2treasure" : [
+    [1, {
+        "pool" : [
+          [1, [ "target2object", 1] ]
+        
+        ],
+        "poolRounds" : [
+     [1, 1]
+
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ],
+   "target3treasure" : [
+    [1, {
+        "pool" : [
+          [1, [ "target3object", 1] ]
+        
+        ],
+        "poolRounds" : [
+     [1, 1]
+
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ],
+   "target4treasure" : [
+    [1, {
+        "pool" : [
+          [1, [ "target4object", 1] ]
+        
+        ],
+        "poolRounds" : [
+     [1, 1]
+
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ],
+   "target5treasure" : [
+    [1, {
+        "pool" : [
+          [1, [ "target5object", 1] ]
+        
+        ],
+        "poolRounds" : [
+     [1, 1]
+
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ],
+   "target6treasure" : [
+    [1, {
+        "pool" : [
+          [1, [ "target6object", 1] ]
+        
+        ],
+        "poolRounds" : [
+     [1, 1]
+
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ],
+   "target7treasure" : [
+    [1, {
+        "pool" : [
+          [1, [ "target7object", 1] ]
+        
+        ],
+        "poolRounds" : [
+     [1, 1]
+
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ],
+   "target8treasure" : [
+    [1, {
+        "pool" : [
+          [1, [ "target8object", 1] ]
+        
+        ],
+        "poolRounds" : [
+     [1, 1]
+
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ],
+   "target9treasure" : [
+    [1, {
+        "pool" : [
+          [1, [ "target9object", 1] ]
+        
+        ],
+        "poolRounds" : [
+     [1, 1]
+
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ],
+   "target10treasure" : [
+    [1, {
+        "pool" : [
+          [1, [ "target10object", 1] ]
+        
+        ],
+        "poolRounds" : [
+     [1, 1]
+
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ],
+   "targetdiamondtreasure" : [
+    [1, {
+        "pool" : [
+          [1, [ "targetdiamondobject", 1] ]
+        
+        ],
+        "poolRounds" : [
+     [1, 1]
+
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ]
+}

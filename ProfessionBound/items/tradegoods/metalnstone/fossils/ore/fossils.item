@@ -1,0 +1,7 @@
+{
+  "itemName" : "fossils",
+  "rarity" : "rare",
+  "inventoryIcon" : "fossils.png",
+  "description" : "Fossils.. Runecrafters have the tools to turn these into tablets.",
+  "shortdescription" : "Fossils"
+}

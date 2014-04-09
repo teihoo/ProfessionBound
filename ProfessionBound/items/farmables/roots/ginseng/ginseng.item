@@ -1,0 +1,8 @@
+{
+  "itemName" : "ginseng",
+  "rarity" : "uncommon",
+  "category" : "Farmable",
+  "inventoryIcon" : "ginseng.png",
+  "description" : "Grown ginseng roots can be used in recipes.",
+  "shortdescription" : "Ginseng Root"
+}

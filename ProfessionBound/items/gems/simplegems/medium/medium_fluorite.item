@@ -1,0 +1,9 @@
+{
+  "itemName" : "medium_Fluorite",
+  "rarity" : "uncommon",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "medium_Fluorite.png",
+  "description" : "A medium Fluorite.",
+  "shortdescription" : "Medium Fluorite Gem"
+}

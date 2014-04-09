@@ -1,0 +1,9 @@
+{
+  "itemName" : "tabletofgliding",
+  "rarity" : "rare",
+  "category" : "Rune",
+  "race" : "generic",
+  "description" : "Tablets are made by runecrafters and are need to create techs.",
+  "inventoryIcon" : "tabletofgliding.png",
+  "shortdescription" : "Tablet of Gliding"
+}

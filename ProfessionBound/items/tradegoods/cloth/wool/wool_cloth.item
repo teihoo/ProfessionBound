@@ -1,0 +1,9 @@
+{
+  "itemName" : "wool_cloth",
+  "rarity" : "uncommon",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "wool_cloth.png",
+  "description" : "Wool Cloth.",
+  "shortdescription" : "Wool Cloth"
+}

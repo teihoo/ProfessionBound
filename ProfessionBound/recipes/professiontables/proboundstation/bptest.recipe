@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "proboundtoken", "count" : 1 }
+  ],
+  "output" : { "item" : "fleshdoor_recipe", "count" : 1 },
+  "groups" : [ "proboundstation", "alchemyunlocks", "engineeringunlocks", "farmingunlocks", "medicalunlocks", "runecraftingunlocks", "leathercraftingunlocks" ]
+}

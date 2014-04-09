@@ -1,0 +1,9 @@
+{
+  "itemName" : "vialichor",
+  "rarity" : "common",
+  "category" : "Reagents",
+  "race" : "generic",
+  "inventoryIcon" : "vialichor.png",
+  "description" : "This is a vial ichor..",
+  "shortdescription" : "Vial Ichor"
+}

@@ -1,0 +1,15 @@
+{
+  "birdhuntingloot" : [
+    [1, {
+        "pool" : [
+          [0.10, [ "rawpoultry" ] ]
+        ],
+        "poolRounds" : [
+          [0.10, 0],
+          [0.90, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ]
+}

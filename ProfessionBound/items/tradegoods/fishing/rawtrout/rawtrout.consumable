@@ -1,0 +1,14 @@
+{
+  "itemName" : "rawtrout",
+  "rarity" : "Common",
+  "inventoryIcon" : "rawtrout.png",
+  "description" : "It's a raw fish...slimy.",
+  "shortdescription" : "Raw Trout",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 45
+      }
+    ] ]
+}

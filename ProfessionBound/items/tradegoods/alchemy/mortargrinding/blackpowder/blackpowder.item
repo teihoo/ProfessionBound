@@ -1,0 +1,9 @@
+{
+  "itemName" : "blackpowder",
+  "rarity" : "rare",
+  "category" : "Mortar Grinding",
+  "race" : "generic",
+  "inventoryIcon" : "blackpowder.png",
+  "description" : "A mystical powder, this might be useful stuff for crafting.",
+  "shortdescription" : "Black Powder"
+}

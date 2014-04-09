@@ -1,0 +1,10 @@
+{
+  "itemName" : "sailboatTech",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "/tech/humancar.png",
+  "description" : "Use this trusty vessel to sail the seas!",
+  "shortdescription" : "Sailboat",
+  "inspectionKind" : "tech",
+
+  "techModule" : "sailboat.tech"
+}

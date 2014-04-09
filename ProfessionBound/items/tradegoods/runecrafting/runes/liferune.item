@@ -1,0 +1,9 @@
+{
+  "itemName" : "liferune",
+  "rarity" : "rare",
+  "category" : "Rune",
+  "race" : "generic",
+  "description" : "Runes are useful for many powerful creations.",
+  "inventoryIcon" : "liferune.png",
+  "shortdescription" : "Life Rune"
+}

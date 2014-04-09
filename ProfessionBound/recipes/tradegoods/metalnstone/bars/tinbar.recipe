@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "tin_ore", "count" : 1 }
+  ],
+  "output" : { "item" : "tin_bar", "count" : 1 },
+  "groups" : [ "stonefurnace", "all" ]
+}

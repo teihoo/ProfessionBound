@@ -1,0 +1,9 @@
+{
+  "itemName" : "medium_Emerald",
+  "rarity" : "uncommon",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "medium_Emerald.png",
+  "description" : "A medium Emerald.",
+  "shortdescription" : "Medium Emerald Gem"
+}
