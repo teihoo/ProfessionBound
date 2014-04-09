@@ -1,9 +1,0 @@
-{
-  "itemName" : "small_Sapphire",
-  "rarity" : "uncommon",
-  "category" : "Gem",
-  "race" : "generic",
-  "inventoryIcon" : "small_Sapphire.png",
-  "description" : "A small Sapphire gem.",
-  "shortdescription" : "Small Sapphire Gem"
-}

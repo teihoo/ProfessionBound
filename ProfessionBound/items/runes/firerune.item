@@ -1,9 +1,0 @@
-{
-  "itemName" : "firerune",
-  "rarity" : "common",
-  "category" : "Rune",
-  "race" : "generic",
-  "inventoryIcon" : "firerune.png",
-  "description" : "A fire rune.",
-  "shortdescription" : "Fire Rune"
-}

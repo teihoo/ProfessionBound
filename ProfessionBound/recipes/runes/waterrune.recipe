@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "cobblestonematerial", "count" : 1 },
-	{ "item" : "slush", "count" : 6 }
-  ],
-  "output" : { "item" : "waterrune", "count" : 3 },
-  "groups" : [ "runecrafting", "runecrafting-a", "runecrafting-e" ]
-}

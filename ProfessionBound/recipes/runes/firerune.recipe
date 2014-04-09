@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "obsidian", "count" : 1 },
-	{ "item" : "magmarock", "count" : 6 }
-  ],
-  "output" : { "item" : "firerune", "count" : 3 },
-  "groups" : [ "runecrafting", "runecrafting-a", "runecrafting-e" ]
-}

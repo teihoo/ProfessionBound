@@ -1,9 +1,0 @@
-{
-  "itemName" : "purple-dye",
-  "rarity" : "uncommon",
-  "category" : "Dye",
-  "race" : "generic",
-  "inventoryIcon" : "purple-dye.png",
-  "description" : "A purple dye.",
-  "shortdescription" : "Purple Dye"
-}

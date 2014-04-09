@@ -1,9 +1,0 @@
-{
-  "itemName" : "yellowpowder",
-  "rarity" : "Common",
-  "category" : "Mortar Grinding",
-  "race" : "generic",
-  "inventoryIcon" : "yellowpowder.png",
-  "description" : "A mystical powder, this might be useful stuff for crafting.",
-  "shortdescription" : "Yellow Powder"
-}

@@ -1,9 +1,0 @@
-{
-  "itemName" : "small_Emerald",
-  "rarity" : "uncommon",
-  "category" : "Gem",
-  "race" : "generic",
-  "inventoryIcon" : "small_Emerald.png",
-  "description" : "A small Emerald gem.",
-  "shortdescription" : "Small Emerald Gem"
-}

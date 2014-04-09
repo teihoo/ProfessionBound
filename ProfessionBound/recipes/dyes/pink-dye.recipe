@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "white-dye", "count" : 1 },
-	{ "item" : "red-dye", "count" : 1 },
-    { "item" : "smallemptyflask", "count" : 1 }
-  ],
-  "output" : { "item" : "pink-dye", "count" : 1 },
-  "groups" : [ "dyes" ]
-}

@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "fullwood1", "count" : 1 }
-  ],
-  "output" : { "item" : "woodencork", "count" : 9 },
-  "groups" : [ "plain" ]
-}

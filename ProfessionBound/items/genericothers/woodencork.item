@@ -1,9 +1,0 @@
-{
-  "itemName" : "woodencork",
-  "rarity" : "Common",
-  "category" : "Ingredient",
-  "race" : "generic",
-  "inventoryIcon" : "woodencork.png",
-  "description" : "A wooden cork. This might be useful for creating flask",
-  "shortdescription" : "Wood Cork"
-}

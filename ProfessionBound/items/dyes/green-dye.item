@@ -1,9 +1,0 @@
-{
-  "itemName" : "green-dye",
-  "rarity" : "Common",
-  "category" : "Dye",
-  "race" : "generic",
-  "inventoryIcon" : "green-dye.png",
-  "description" : "A green dye.",
-  "shortdescription" : "Green Dye"
-}

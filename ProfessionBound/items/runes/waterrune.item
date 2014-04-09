@@ -1,9 +1,0 @@
-{
-  "itemName" : "waterrune",
-  "rarity" : "common",
-  "category" : "Rune",
-  "race" : "generic",
-  "inventoryIcon" : "waterrune.png",
-  "description" : "A rune.",
-  "shortdescription" : "Water Rune"
-}
