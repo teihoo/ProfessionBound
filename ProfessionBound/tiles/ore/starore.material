@@ -1,0 +1,17 @@
+{
+  "materialId" : 546643,
+  "materialName" : "starore",
+  "frames" : "starore.png",
+  "particleColor" : [209, 204, 135, 255],
+  "variants" : 5,
+  "itemDrop" : "starore",
+  "description" : "A fine glittering ore. Could probably be made into things!",
+  "shortdescription" : "Fine Sand",
+  "glitchDescription" : "Statement. Sand.",
+  "floranDescription" : "Star Ore. A rare ore from space!",
+  "footstepSound" : "/sfx/blocks/footstep_sand.wav",
+  "falling" : true,
+  "cascading" : true,
+  "health" : 20.5,
+  "breathable" : "notBreathable"
+}
