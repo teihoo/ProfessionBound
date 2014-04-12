@@ -1,0 +1,14 @@
+{
+  "itemName" : "cookedsunfish",
+  "rarity" : "uncommon",
+  "inventoryIcon" : "cookedsunfish.png",
+  "description" : "It's a cooked fish... Mmmmm..",
+  "shortdescription" : "Cooked Sun Fish",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 45
+      }
+    ] ]
+}

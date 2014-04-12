@@ -1,0 +1,14 @@
+{
+  "itemName" : "cookedsagefish",
+  "rarity" : "uncommon",
+  "inventoryIcon" : "cookedsagefish.png",
+  "description" : "It's a cooked fish... Mmmmm..",
+  "shortdescription" : "Cooked Sagefish",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 45
+      }
+    ] ]
+}

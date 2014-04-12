@@ -1,0 +1,14 @@
+{
+  "itemName" : "cookedgapper",
+  "rarity" : "uncommon",
+  "inventoryIcon" : "cookedgapper.png",
+  "description" : "It's a cooked fish... Mmmmm..",
+  "shortdescription" : "Cooked Gapper Fish",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 45
+      }
+    ] ]
+}

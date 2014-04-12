@@ -1,0 +1,14 @@
+{
+  "itemName" : "cookedsardine",
+  "rarity" : "Common",
+  "inventoryIcon" : "cookedsardine.png",
+  "description" : "It's a cooked fish... Mmmmm..",
+  "shortdescription" : "Cooked Sardine Fish",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 45
+      }
+    ] ]
+}

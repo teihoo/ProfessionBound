@@ -1,0 +1,14 @@
+{
+  "itemName" : "cookedrainbowfish",
+  "rarity" : "legendary",
+  "inventoryIcon" : "cookedrainbowfish.png",
+  "description" : "It's a cooked fish... Mmmmm..",
+  "shortdescription" : "Cooked Rainbow Fish",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 45
+      }
+    ] ]
+}

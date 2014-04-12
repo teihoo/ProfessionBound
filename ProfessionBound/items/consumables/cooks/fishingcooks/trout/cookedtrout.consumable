@@ -1,0 +1,14 @@
+{
+  "itemName" : "cookedtrout",
+  "rarity" : "uncommon",
+  "inventoryIcon" : "cookedtrout.png",
+  "description" : "It's a cooked fish... Mmmmm..",
+  "shortdescription" : "Cooked Trout",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 45
+      }
+    ] ]
+}

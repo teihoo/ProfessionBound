@@ -1,0 +1,14 @@
+{
+  "itemName" : "cookedsmallfish",
+  "rarity" : "uncommon",
+  "inventoryIcon" : "cookedsmallfish.png",
+  "description" : "It's a cooked fish... Mmmmm..",
+  "shortdescription" : "Cooked Small Fish",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 45
+      }
+    ] ]
+}
