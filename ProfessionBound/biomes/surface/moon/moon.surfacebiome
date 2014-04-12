@@ -145,6 +145,10 @@
         [0.1, "glowingrain" ],
         [0.9, "clear" ]
       ],
+	  [
+        [.005, "starore" ],
+        [0.995, "clear" ]
+      ],
       [
         [0.005, "meteorshower" ],
         [0.995, "clear" ]
@@ -244,6 +248,15 @@
 
           "type" : "treasureBox",
           "treasureBoxSets" : [ "weaponChest" ]
+        },
+		{
+         "type" : "object",
+          "objectSets" : [
+            {
+              "pool" : [ [1, "wildghostmushroomseed" ] ],
+              "parameters" : { "startingStage" : 2 }
+            }
+          ]
         },
         {
           "mode" : "floor",
