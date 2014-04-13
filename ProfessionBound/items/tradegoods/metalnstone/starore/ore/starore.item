@@ -1,7 +1,7 @@
 {
-  "itemName" : "pyriteore",
+  "itemName" : "starore",
   "rarity" : "rare",
-  "inventoryIcon" : "pyriteore.png",
+  "inventoryIcon" : "starore.png",
   "description" : "Star Ore. Can be used for smelting bars and more.",
   "shortdescription" : "Star Ore"
 }

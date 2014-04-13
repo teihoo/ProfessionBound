@@ -3,7 +3,7 @@
     [1, {
         "pool" : [
           [0.36, [ "feather", 3] ],
-		  [0.10, [ "rawpoultry" 1] ]
+		  [0.10, [ "rawpoultry", 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -15,7 +15,7 @@
     [2, {
         "pool" : [
           [0.36, [ "feather", 3] ],
-		  [0.10, [ "rawpoultry" 1] ]
+		  [0.10, [ "rawpoultry", 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -27,7 +27,7 @@
     [3, {
         "pool" : [
           [0.36, [ "feather", 3] ],
-		  [0.10, [ "rawpoultry" 1] ]
+		  [0.10, [ "rawpoultry", 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -39,7 +39,7 @@
     [4, {
         "pool" : [
           [0.36, [ "feather", 3] ],
-		  [0.10, [ "rawpoultry" 1] ]
+		  [0.10, [ "rawpoultry", 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -51,7 +51,7 @@
     [5, {
         "pool" : [
           [0.36, [ "feather", 3] ],
-		  [0.10, [ "rawpoultry" 1] ]
+		  [0.10, [ "rawpoultry", 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -63,7 +63,7 @@
     [6, {
         "pool" : [
           [0.36, [ "feather", 5] ],
-		  [0.10, [ "rawpoultry" 1] ]
+		  [0.10, [ "rawpoultry", 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -75,7 +75,7 @@
     [7, {
         "pool" : [
           [0.36, [ "feather", 5] ],
-		  [0.10, [ "rawpoultry" 1] ]
+		  [0.10, [ "rawpoultry", 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -87,7 +87,7 @@
     [8, {
         "pool" : [
           [0.36, [ "feather", 5] ],
-		  [0.10, [ "rawpoultry" 1] ]
+		  [0.10, [ "rawpoultry", 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -99,7 +99,7 @@
     [9, {
         "pool" : [
           [0.36, [ "feather", 5] ],
-		  [0.10, [ "rawpoultry" 1] ]
+		  [0.10, [ "rawpoultry", 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -111,7 +111,7 @@
     [10, {
         "pool" : [
           [0.36, [ "feather", 5] ],
-		  [0.10, [ "rawpoultry" 1] ]
+		  [0.10, [ "rawpoultry", 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
