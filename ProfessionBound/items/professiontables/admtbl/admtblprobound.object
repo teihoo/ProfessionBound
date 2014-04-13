@@ -1,0 +1,28 @@
+{
+  "objectName" : "admtblprobound",
+  "rarity" : "legendary",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/proboundstation.config",
+    "filter" : [ "proboundmod" ]
+  },
+
+  "description" : "This station can be placed on walls, and is useful if you wish to test all recipes of the mod at once.",
+  "shortdescription" : "Pro-Bound Dev Station",
+  "race" : "generic",
+  "category" : "Tester Tool",
+
+  "inventoryIcon" : "proboundstationicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "proboundstation.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "frames" : 8,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+	"frameCooldown" : 11,
+    "autoCloseCooldown" : 3600
+}
