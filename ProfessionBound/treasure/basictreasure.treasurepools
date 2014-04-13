@@ -120,6 +120,12 @@
           //  --------------------------------- armor    0.4%
 
           //  --------------------------------- misc     27%
+		  [0.0077, [ "scrollofchill", 1] ],
+		  [0.0077, [ "scrollofwarmth", 1] ],
+		  [0.0128, [ "scrollofdefense", 1] ],
+		  [0.0128, [ "scrollofenergy", 1] ],
+		  [0.0128, [ "scrollofstamina", 1] ],
+		  [0.0128, [ "scrollofstrength", 1] ],
           [0.004, [ "flashlight", 1] ],
           [0.004, [ "redflashlight", 1] ],
           [0.004, [ "greenflashlight", 1] ],
