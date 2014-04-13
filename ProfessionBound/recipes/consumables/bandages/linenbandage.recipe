@@ -6,5 +6,5 @@
     "item" : "linenbandage",
     "count" : 1
   },
-  "groups" : [ "medicalstation", "bandages" ]
+  "groups" : [ "proboundmod", "thedoc", "medicalstation", "bandages" ]
 }
