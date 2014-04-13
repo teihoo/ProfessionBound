@@ -1,0 +1,9 @@
+{
+  "itemName" : "livingvine",
+  "rarity" : "uncommon",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "livingvine.png",
+  "description" : "A living vine from a life vine.",
+  "shortdescription" : "Living Vine"
+}

@@ -151,6 +151,7 @@
       } ],
     [8, {
         "pool" : [
+		  [0.001, [ "proboundtoken", 1 ] ],
 		  [0.05, [ "whitepowder", 1 ] ],
 		  [0.06, [ "waterrune", 1 ] ],
 		  [0.06, [ "firerune", 1 ] ],
@@ -173,6 +174,7 @@
       } ],
     [9, {
         "pool" : [
+		  [0.003, [ "proboundtoken", 1 ] ],
 		  [0.06, [ "whitepowder", 1 ] ],
 		  [0.06, [ "waterrune", 1 ] ],
 		  [0.06, [ "firerune", 1 ] ],
@@ -195,6 +197,7 @@
       } ],
     [10, {
         "pool" : [
+		  [0.005, [ "proboundtoken", 1 ] ],
 		  [0.06, [ "whitepowder", 1 ] ],
 		  [0.06, [ "waterrune", 1 ] ],
 		  [0.06, [ "firerune", 1 ] ],
