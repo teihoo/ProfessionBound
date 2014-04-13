@@ -1,0 +1,15 @@
+{
+  "itemName" : "scrollofstrength",
+  "rarity" : "common",
+  "level" : 1,
+  "inventoryIcon" : "scrollimg.png",
+  "description" : "Scrolls can add temporary buffs to you.",
+  "shortdescription" : "Scroll of Strength",
+  "effects" : [ [
+      {
+        "kind" : "elixirofthefays"
+      }
+    ] ],
+  "emote" : "Oh",
+  "emitters" : [ "elixirofthefays" ]
+}

@@ -1,0 +1,15 @@
+{
+  "itemName" : "scrollofenergy",
+  "rarity" : "common",
+  "level" : 1,
+  "inventoryIcon" : "scrollimg.png",
+  "description" : "Scrolls can add temporary buffs to you.",
+  "shortdescription" : "Scroll of Energy",
+  "effects" : [ [
+      {
+        "kind" : "elixirofthefays"
+      }
+    ] ],
+  "emote" : "Oh",
+  "emitters" : [ "elixirofthefays" ]
+}
