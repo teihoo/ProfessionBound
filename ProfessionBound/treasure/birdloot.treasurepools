@@ -2,10 +2,8 @@
   "birdloot" : [
     [1, {
         "pool" : [
-          [0.36, [ "money", 10] ],
-          [0.36, [ "money", 10] ],
-          [0.18, [ "money", 25] ],
-		  [0.10, [ "rawpoultry" ] ]
+          [0.36, [ "feather", 3] ],
+		  [0.10, [ "rawpoultry" 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -16,11 +14,8 @@
       } ],
     [2, {
         "pool" : [
-          [0.36, [ "money", 10] ],
-          [0.36, [ "money", 60] ],
-          [0.18, [ "money", 75] ],
-		  [0.10, [ "cellmateria", 1] ],
-		  [0.10, [ "monsterplating", 1] ]
+          [0.36, [ "feather", 3] ],
+		  [0.10, [ "rawpoultry" 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -31,11 +26,8 @@
       } ],
     [3, {
         "pool" : [
-          [0.36, [ "money", 10] ],
-          [0.36, [ "money", 110] ],
-          [0.18, [ "money", 125] ],
-		  [0.10, [ "cellmateria", 1] ],
-		  [0.10, [ "monsterplating", 1] ]
+          [0.36, [ "feather", 3] ],
+		  [0.10, [ "rawpoultry" 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -46,11 +38,8 @@
       } ],
     [4, {
         "pool" : [
-          [0.36, [ "money", 10] ],
-          [0.36, [ "money", 160] ],
-          [0.18, [ "money", 175] ],
-		  [0.10, [ "cellmateria", 1] ],
-		  [0.10, [ "monsterplating", 1] ]
+          [0.36, [ "feather", 3] ],
+		  [0.10, [ "rawpoultry" 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -61,11 +50,8 @@
       } ],
     [5, {
         "pool" : [
-          [0.36, [ "money", 10] ],
-          [0.36, [ "money", 165] ],
-          [0.18, [ "money", 180] ],
-		  [0.10, [ "cellmateria", 1] ],
-		  [0.10, [ "monsterplating", 1] ]
+          [0.36, [ "feather", 3] ],
+		  [0.10, [ "rawpoultry" 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -76,11 +62,8 @@
       } ],
     [6, {
         "pool" : [
-          [0.36, [ "money", 10] ],
-          [0.36, [ "money", 170] ],
-          [0.18, [ "money", 185] ],
-		  [0.10, [ "cellmateria", 1] ],
-		  [0.10, [ "monsterplating", 1] ]
+          [0.36, [ "feather", 5] ],
+		  [0.10, [ "rawpoultry" 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -91,11 +74,8 @@
       } ],
     [7, {
         "pool" : [
-          [0.36, [ "money", 10] ],
-          [0.36, [ "money", 175] ],
-          [0.18, [ "money", 185] ],
-		  [0.10, [ "cellmateria", 1] ],
-		  [0.10, [ "monsterplating", 1] ]
+          [0.36, [ "feather", 5] ],
+		  [0.10, [ "rawpoultry" 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -106,11 +86,8 @@
       } ],
     [8, {
         "pool" : [
-          [0.36, [ "money", 10] ],
-          [0.36, [ "money", 180] ],
-          [0.18, [ "money", 190] ],
-		  [0.10, [ "cellmateria", 1] ],
-		  [0.10, [ "monsterplating", 1] ]
+          [0.36, [ "feather", 5] ],
+		  [0.10, [ "rawpoultry" 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -121,11 +98,8 @@
       } ],
     [9, {
         "pool" : [
-          [0.36, [ "money", 10] ],
-          [0.36, [ "money", 185] ],
-          [0.18, [ "money", 195] ],
-		  [0.10, [ "cellmateria", 1] ],
-		  [0.10, [ "monsterplating", 1] ]
+          [0.36, [ "feather", 5] ],
+		  [0.10, [ "rawpoultry" 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
@@ -136,11 +110,8 @@
       } ],
     [10, {
         "pool" : [
-          [0.36, [ "money", 10] ],
-          [0.36, [ "money", 190] ],
-          [0.18, [ "money", 200] ],
-		  [0.10, [ "cellmateria", 1] ],
-		  [0.10, [ "monsterplating", 1] ]
+          [0.36, [ "feather", 5] ],
+		  [0.10, [ "rawpoultry" 1] ]
         ],
         "poolRounds" : [
           [0.20, 0],
