@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "dawnstarcloth", "count" : 2 }
+  ],
+  "output" : { "item" : "dawnstarcloththread", "count" : 5 },
+  "groups" : [ "proboundmod", "morecloth" ]
+}

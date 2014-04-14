@@ -3,5 +3,5 @@
   { "item" : "darkwoodmaterial", "count" : 3 }
   ],
   "output" : { "item" : "target0object", "count" : 1 },
-  "groups" : [ "craftingtable", "objects" ]
+  "groups" : [ "proboundmod", "craftingtable", "objects" ]
 }

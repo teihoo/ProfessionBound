@@ -4,7 +4,7 @@
     "item" : "flyingcarpetTech-chip",
     "count" : 1
   },
-  "groups" : [ "probound", "plain", "consumables", "all" ]
+  "groups" : [ "proboundmod", "plain", "consumables", "all" ]
 }
 
 
