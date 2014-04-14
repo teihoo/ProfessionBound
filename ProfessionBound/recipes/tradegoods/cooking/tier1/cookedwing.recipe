@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "wing", "count" : 1 }
+  ],
+  "output" : { "item" : "cookedwing", "count" : 1 },
+  "groups" : [ "proboundmod", "cookingother" ]
+}

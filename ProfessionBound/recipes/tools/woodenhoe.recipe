@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 1 },
+	{ "item" : "woodenstock", "count" : 1 }
+  ],
+  "output" : { "item" : "woodenhoe", "count" : 1 },
+  "groups" : [ "proboundmod", "farmer", "farmingtools" ]
+}

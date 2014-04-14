@@ -1,0 +1,9 @@
+{
+  "itemName" : "corrosiveichor",
+  "rarity" : "common",
+  "category" : "Reagents",
+  "race" : "generic",
+  "inventoryIcon" : "corrosiveichor.png",
+  "description" : "This is a vial of corrosive ichor..",
+  "shortdescription" : "Vial of Corrosive Ichor"
+}

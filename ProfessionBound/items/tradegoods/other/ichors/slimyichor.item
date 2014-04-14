@@ -1,0 +1,9 @@
+{
+  "itemName" : "slimyichor",
+  "rarity" : "common",
+  "category" : "Reagents",
+  "race" : "generic",
+  "inventoryIcon" : "slimyichor.png",
+  "description" : "This is a vial of slimy ichor..",
+  "shortdescription" : "Vial of Slimy Ichor"
+}

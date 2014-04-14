@@ -1,0 +1,14 @@
+{
+  "itemName" : "cookedwing",
+  "rarity" : "uncommon",
+  "inventoryIcon" : "cookedwing.png",
+  "description" : "It's a cooked flyers wing... Mmmmm..",
+  "shortdescription" : "Cooked Flyer Wing",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 55
+      }
+    ] ]
+}

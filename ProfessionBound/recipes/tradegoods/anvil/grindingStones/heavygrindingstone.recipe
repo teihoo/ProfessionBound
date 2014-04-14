@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 3 },
+	{ "item" : "steelbar", "count" : 1 }
+  ],
+  "output" : { "item" : "heavygrindingstone", "count" : 1 },
+  "groups" : [ "proboundmod", "anvil", "other" ]
+}

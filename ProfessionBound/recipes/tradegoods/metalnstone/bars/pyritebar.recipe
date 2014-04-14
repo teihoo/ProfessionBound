@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "pyriteore", "count" : 1 }
+  ],
+  "output" : { "item" : "pyritebar", "count" : 1 },
+  "groups" : [ "proboundmod", "stonefurnace", "all" ]
+}

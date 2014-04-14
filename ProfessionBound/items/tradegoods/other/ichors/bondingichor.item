@@ -1,0 +1,9 @@
+{
+  "itemName" : "bondingichor",
+  "rarity" : "common",
+  "category" : "Reagents",
+  "race" : "generic",
+  "inventoryIcon" : "bondingichor.png",
+  "description" : "This is a vial of bonding ichor..",
+  "shortdescription" : "Vial of Bonding Ichor"
+}
