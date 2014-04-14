@@ -3,7 +3,7 @@
   "modName" : "sapphire_gem",
   "frames" : "sapphire_gem.png",
   "variants" : 8,
-  "itemDrop" : "small_Sapphire",
+  "itemDrop" : "small_sapphire",
   "Description" : "This ore contains a gem.",
   "health" : 15,
   "breaksWithTile" : true

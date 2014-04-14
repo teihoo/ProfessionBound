@@ -3,7 +3,7 @@
   "modName" : "emerald_gem",
   "frames" : "emerald_gem.png",
   "variants" : 8,
-  "itemDrop" : "small_Emerald",
+  "itemDrop" : "small_emerald",
   "Description" : "This ore contains a gem.",
   "health" : 15,
   "breaksWithTile" : true

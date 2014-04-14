@@ -3,7 +3,7 @@
   "modName" : "topaz_gem",
   "frames" : "topaz_gem.png",
   "variants" : 8,
-  "itemDrop" : "small_Topaz",
+  "itemDrop" : "small_topaz",
   "Description" : "This ore contains a gem.",
   "health" : 15,
   "breaksWithTile" : true
