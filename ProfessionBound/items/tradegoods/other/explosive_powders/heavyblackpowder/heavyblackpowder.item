@@ -3,7 +3,7 @@
   "rarity" : "uncommon",
   "category" : "Mortar Grinding",
   "race" : "generic",
-  "inventoryIcon" : "solidblackpowder.png",
+  "inventoryIcon" : "heavyblackpowder.png",
   "description" : "Heavy Black Powder, an explosive reagent.",
   "shortdescription" : "Heavy Black Powder"
 }

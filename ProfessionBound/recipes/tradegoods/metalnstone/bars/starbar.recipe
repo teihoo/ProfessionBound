@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "pyriteore", "count" : 1 },
-	{ "item" : "starore", "count" : 1 },
+	{ "item" : "starore", "count" : 1 }
   ],
   "output" : { "item" : "starbar", "count" : 1 },
   "groups" : [ "proboundmod", "stonefurnace", "all" ]

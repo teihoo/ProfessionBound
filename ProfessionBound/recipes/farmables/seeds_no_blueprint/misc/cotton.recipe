@@ -2,6 +2,6 @@
   "input" : [
     { "item" : "money", "count" : 1 }
   ],
-  "output" : { "item" : "cottonseed", "count" : 1 },
+  "output" : { "item" : "cottonplantseed", "count" : 1 },
   "groups" : [ "fmseeds" ]
 }

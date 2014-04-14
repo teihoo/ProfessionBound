@@ -6,7 +6,7 @@
   "shortdescription" : "Cotton Seed",
   "objectType" : "farmable",
   "printable" : false,
-  "objectItem" : "cottonseed",
+  "objectItem" : "cottonplantseed",
   "apexDescription" : "A high-efficency producer of natural polymers.",
   "avianDescription" : "Fluffy nesting material.",
   "floranDescription" : "Makesss sssoft thingsss.",

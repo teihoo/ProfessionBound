@@ -3,6 +3,6 @@
     { "item" : "light_hide", "count" : 1 },
 	{ "item" : "salt", "count" : 1 }
   ],
-  "output" : { "item" : "curedmedhide", "count" : 1 },
+  "output" : { "item" : "curedmediumhide", "count" : 1 },
   "groups" : [ "leathercrafting" ]
 }

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "smallwfilledflask", "count" : 1 },
+	{ "item" : "tar", "count" : 1 }
+  ],
+  "output" : { "item" : "starlightink", "count" : 1 },
+  "groups" : [ "proboundmod", "woodencraftingtable1", "other" ]
+}
