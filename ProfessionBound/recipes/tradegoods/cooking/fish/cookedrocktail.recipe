@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "rawrocktail", "count" : 1 }
+  ],
+  "output" : { "item" : "cookedrocktail", "count" : 1 },
+  "groups" : [ "proboundmod", "cookingother" ]
+}
