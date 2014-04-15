@@ -3,5 +3,5 @@
     { "item" : "small_Emerald", "count" : 3 }
   ],
   "output" : { "item" : "medium_Emerald", "count" : 1 },
-  "groups" : [ "gemupgrade" ]
+  "groups" : [ "proboundmod", "runecrafter", "gemupgrade" ]
 }

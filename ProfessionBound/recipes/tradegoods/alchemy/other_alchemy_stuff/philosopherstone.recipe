@@ -5,5 +5,5 @@
 	{ "item" : "diamond", "count" : 1 }
   ],
   "output" : { "item" : "philosopherstone", "count" : 325 },
-  "groups" : [ "transmutes" ]
+  "groups" : [ "proboundmod", "alchemist", "transmutes" ]
 }

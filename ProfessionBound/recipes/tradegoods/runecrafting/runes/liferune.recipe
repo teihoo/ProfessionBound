@@ -5,5 +5,5 @@
 	{ "item" : "earthrune", "count" : 1 }
   ],
   "output" : { "item" : "liferune", "count" : 3 },
-  "groups" : [ "runecrafting" ]
+  "groups" : [ "proboundmod", "runecrafter", "runecrafting" ]
 }

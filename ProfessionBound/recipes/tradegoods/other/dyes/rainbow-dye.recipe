@@ -10,5 +10,5 @@
 	{ "item" : "blue-dye", "count" : 4 }
   ],
   "output" : { "item" : "rainbow-dye", "count" : 1 },
-  "groups" : [ "dyes" ]
+  "groups" : [ "proboundmod", "alchemist", "dyes" ]
 }

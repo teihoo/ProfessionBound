@@ -3,5 +3,5 @@
     { "item" : "titaniumore", "count" : 1 }
   ],
   "output" : { "item" : "titanium_powder", "count" : 2 },
-  "groups" : [ "gemcrafting" ]
+  "groups" : [ "proboundmod", "runecrafter", "gemcrafting" ]
 }

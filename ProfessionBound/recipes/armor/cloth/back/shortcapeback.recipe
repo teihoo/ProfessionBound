@@ -3,5 +3,5 @@
     { "item" : "money", "count" : 1 }
   ],
   "output" : { "item" : "shortcapeback", "count" : 1 },
-  "groups" : [ "spinningwheel", "back" ]
+  "groups" : [ "proboundmod", "spinningwheel", "back" ]
 }

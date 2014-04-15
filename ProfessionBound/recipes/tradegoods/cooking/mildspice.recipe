@@ -3,5 +3,5 @@
     { "item" : "chili", "count" : 3 }
   ],
   "output" : { "item" : "mildspice", "count" : 6 },
-  "groups" : [ "cookingother" ]
+  "groups" : [ "proboundmod", "cookingother" ]
 }

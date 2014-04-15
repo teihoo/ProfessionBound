@@ -3,5 +3,5 @@
     { "item" : "money", "count" : 1 }
   ],
   "output" : { "item" : "bloodrootseed", "count" : 1 },
-  "groups" : [ "fmseeds" ]
+  "groups" : [ "proboundmod", "farmer", "fmseeds" ]
 }

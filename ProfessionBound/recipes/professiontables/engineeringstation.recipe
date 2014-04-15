@@ -8,5 +8,5 @@
     "item" : "EngineeringStation",
     "count" : 1
   },
-  "groups" : [ "plain", "objects", "all", "tools" ]
+  "groups" : [ "proboundmod", "engineer", "plain", "objects" ]
 }

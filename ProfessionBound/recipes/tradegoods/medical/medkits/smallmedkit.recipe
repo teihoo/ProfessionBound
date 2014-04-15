@@ -8,5 +8,5 @@
     "item" : "smallmedkit",
     "count" : 1
   },
-  "groups" : [ "medicalstation", "medkits" ]
+  "groups" : [ "proboundmod", "thedoc", "medicalstation", "medkits" ]
 }

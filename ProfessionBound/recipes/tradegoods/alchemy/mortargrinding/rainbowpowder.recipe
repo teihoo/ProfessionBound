@@ -9,5 +9,5 @@
     { "item" : "greenpowder", "count" : 6 }
   ],
   "output" : { "item" : "rainbowpowder", "count" : 3 },
-  "groups" : [ "mortargrinding" ]
+  "groups" : [ "proboundmod", "alchemist", "mortargrinding" ]
 }

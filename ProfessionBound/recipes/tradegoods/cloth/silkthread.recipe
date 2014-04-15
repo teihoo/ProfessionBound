@@ -3,5 +3,5 @@
     { "item" : "silkcloth", "count" : 2 }
   ],
   "output" : { "item" : "silkthread", "count" : 5 },
-  "groups" : [ "proboundmod", "morecloth" ]
+  "groups" : [ "proboundmod", "proboundmod", "spinningwheel", "morecloth" ]
 }

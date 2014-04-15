@@ -3,5 +3,5 @@
     { "item" : "ceruliumore", "count" : 1 }
   ],
   "output" : { "item" : "cerulium_powder", "count" : 2 },
-  "groups" : [ "gemcrafting" ]
+  "groups" : [ "proboundmod", "runecrafter", "gemcrafting" ]
 }

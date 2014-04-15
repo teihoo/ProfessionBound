@@ -3,5 +3,5 @@
     { "item" : "sand", "count" : 4 }
   ],
   "output" : { "item" : "smallemptyflask", "count" : 2 },
-  "groups" : [ "moreastuff", "other" ]
+  "groups" : [ "proboundmod", "moreastuff", "craftingtable", "objects", "all" ]
 }

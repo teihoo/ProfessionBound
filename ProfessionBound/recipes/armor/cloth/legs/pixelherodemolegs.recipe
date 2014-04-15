@@ -3,5 +3,5 @@
     { "item" : "money", "count" : 1 }
   ],
   "output" : { "item" : "pixelherodemolegs", "count" : 1 },
-  "groups" : [ "legs" ]
+  "groups" : [ "proboundmod", "spinningwheel", "legs" ]
 }

@@ -3,5 +3,5 @@
     { "item" : "rawsardine", "count" : 1 }
   ],
   "output" : { "item" : "simplefishoil", "count" : 2 },
-  "groups" : [ "mortargrinding" ]
+  "groups" : [ "proboundmod", "alchemist", "mortargrinding" ]
 }

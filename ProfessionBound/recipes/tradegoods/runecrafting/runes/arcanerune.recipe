@@ -5,5 +5,5 @@
 	{ "item" : "lightningrune", "count" : 1 }
   ],
   "output" : { "item" : "arcanerune", "count" : 3 },
-  "groups" : [ "proboundmod", "runecrafter", "runecrafting" ]
+  "groups" : [ "proboundmod", "runecrafter", "proboundmod", "runecrafter", "runecrafting" ]
 }

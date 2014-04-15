@@ -3,5 +3,5 @@
     { "item" : "rawsunfish", "count" : 1 }
   ],
   "output" : { "item" : "vitaminfishoil", "count" : 1 },
-  "groups" : [ "mortargrinding" ]
+  "groups" : [ "proboundmod", "alchemist", "mortargrinding" ]
 }

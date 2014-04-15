@@ -3,5 +3,5 @@
     { "item" : "salt_deposit", "count" : 1 }
   ],
   "output" : { "item" : "salt", "count" : 3 },
-  "groups" : [ "mortargrinding", "cookingother" ]
+  "groups" : [ "proboundmod", "proboundmod", "alchemist", "mortargrinding", "cookingother" ]
 }

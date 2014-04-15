@@ -4,5 +4,5 @@
 	{ "item" : "firerune", "count" : 1 }
   ],
   "output" : { "item" : "durarockrune", "count" : 3 },
-  "groups" : [ "runecrafting" ]
+  "groups" : [ "proboundmod", "runecrafter", "runecrafting" ]
 }

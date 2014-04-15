@@ -5,5 +5,5 @@
 	{ "item" : "goldbar", "count" : 3}
 	],
 "output" : { "item" : "LethalPoisonInjector", "count" : 1 },
-"groups" : [ "gadgets" ]
+"groups" : [ "proboundmod", "engineer", "gadgets" ]
 }

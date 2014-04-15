@@ -6,5 +6,5 @@
 	{ "item" : "firerune", "count" : 3}
 	],
 "output" : { "item" : "LavaBlobber", "count" : 1 },
-"groups" : [ "gadgets" ]
+"groups" : [ "proboundmod", "engineer", "gadgets" ]
 }

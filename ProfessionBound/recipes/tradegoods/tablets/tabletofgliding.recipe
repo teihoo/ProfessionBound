@@ -3,5 +3,5 @@
     { "item" : "copperbar", "count" : 1 }
   ],
   "output" : { "item" : "tabletofgliding", "count" : 5 },
-  "groups" : [ "proboundmod", "techtablet" ]
+  "groups" : [ "proboundmod", "runecrafter", "techtablet" ]
 }

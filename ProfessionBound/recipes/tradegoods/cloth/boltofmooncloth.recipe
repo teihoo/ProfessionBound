@@ -6,5 +6,5 @@
     "item" : "bolt_of_wool_cloth",
     "count" : 1
   },
-  "groups" : [ "morecloth" ]
+  "groups" : [ "proboundmod", "spinningwheel", "morecloth" ]
 }

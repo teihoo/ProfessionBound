@@ -3,5 +3,5 @@
     { "item" : "medium_leather", "count" : 5 }
   ],
   "output" : { "item" : "heavy_leather", "count" : 1 },
-  "groups" : [ "leathercrafting" ]
+  "groups" : [ "proboundmod", "leathercrafter", "leathercrafting" ]
 }

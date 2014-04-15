@@ -5,5 +5,5 @@
     { "item" : "woodencork", "count" : 1 }
   ],
   "output" : { "item" : "smallwfilledflask", "count" : 1 },
-  "groups" : [ "moreastuff" ]
+  "groups" : [ "proboundmod", "alchemist", "moreastuff" ]
 }

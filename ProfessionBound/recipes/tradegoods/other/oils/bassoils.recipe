@@ -3,5 +3,5 @@
     { "item" : "rawbass", "count" : 1 }
   ],
   "output" : { "item" : "simplefishoil", "count" : 4 },
-  "groups" : [ "mortargrinding" ]
+  "groups" : [ "proboundmod", "alchemist", "mortargrinding" ]
 }

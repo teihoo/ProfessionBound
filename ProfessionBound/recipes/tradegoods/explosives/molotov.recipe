@@ -4,5 +4,5 @@
 	{ "item" : "torch", "count" : 1 }
   ],
   "output" : { "item" : "molotov", "count" : 3 },
-  "groups" : [ "esexplosives" ]
+  "groups" : [ "proboundmod", "engineer", "esexplosives" ]
 }

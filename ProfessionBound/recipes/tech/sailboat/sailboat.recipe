@@ -6,5 +6,5 @@
     "item" : "sailboatTech-chip",
     "count" : 1
   },
-  "groups" : [ "mod", "craftingtable", "objects", "all" ]
+  "groups" : [ "proboundmod", "craftingtable", "objects", "all" ]
 }

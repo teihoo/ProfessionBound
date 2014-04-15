@@ -5,5 +5,5 @@
 	{ "item" : "cotton_thread", "count" : 1 }
   ],
   "output" : { "item" : "thick_heavy_leather", "count" : 1 },
-  "groups" : [ "leathercrafting" ]
+  "groups" : [ "proboundmod", "leathercrafter", "leathercrafting" ]
 }

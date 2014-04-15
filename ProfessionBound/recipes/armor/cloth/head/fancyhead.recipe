@@ -3,5 +3,5 @@
     { "item" : "money", "count" : 1 }
   ],
   "output" : { "item" : "fancyhead", "count" : 1 },
-  "groups" : [ "spinningwheel", "head" ]
+  "groups" : [ "proboundmod", "spinningwheel", "head" ]
 }

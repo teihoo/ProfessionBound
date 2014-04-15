@@ -3,5 +3,5 @@
     { "item" : "dawnstarcloth", "count" : 2 }
   ],
   "output" : { "item" : "dawnstarthread", "count" : 5 },
-  "groups" : [ "proboundmod", "morecloth" ]
+  "groups" : [ "proboundmod", "spinningwheel", "morecloth" ]
 }

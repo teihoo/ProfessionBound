@@ -3,5 +3,5 @@
     { "item" : "medium_Ruby", "count" : 3 }
   ],
   "output" : { "item" : "large_Ruby", "count" : 1 },
-  "groups" : [ "gemupgrade" ]
+  "groups" : [ "proboundmod", "runecrafter", "gemupgrade" ]
 }

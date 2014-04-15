@@ -3,5 +3,5 @@
     { "item" : "small_Topaz", "count" : 3 }
   ],
   "output" : { "item" : "medium_Topaz", "count" : 1 },
-  "groups" : [ "gemupgrade" ]
+  "groups" : [ "proboundmod", "runecrafter", "gemupgrade" ]
 }

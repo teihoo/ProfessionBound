@@ -4,5 +4,5 @@
 	{ "item" : "wind", "count" : 1 }
   ],
   "output" : { "item" : "icerune", "count" : 3 },
-  "groups" : [ "runecrafting" ]
+  "groups" : [ "proboundmod", "runecrafter", "runecrafting" ]
 }

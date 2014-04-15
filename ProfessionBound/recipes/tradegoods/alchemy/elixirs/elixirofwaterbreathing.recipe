@@ -5,5 +5,5 @@
 	{ "item" : "smallwfilledflask", "count" : 1 }
   ],
   "output" : { "item" : "elixirofwaterbreathing", "count" : 1 },
-  "groups" : [ "potions" ]
+  "groups" : [ "proboundmod", "alchemist", "proboundmod", "alchemist", "potions" ]
 }

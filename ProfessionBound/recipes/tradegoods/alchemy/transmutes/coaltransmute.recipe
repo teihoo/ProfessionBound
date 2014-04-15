@@ -7,5 +7,5 @@
     "item" : "coalore",
     "count" : 5
   },
-  "groups" : [ "transmutes" ]
+  "groups" : [ "proboundmod", "alchemist", "transmutes" ]
 }

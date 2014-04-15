@@ -3,5 +3,5 @@
     { "item" : "money", "count" : 3000 }
   ],
   "output" : { "item" : "mortarpestle", "count" : 1 },
-  "groups" : [ "moreastuff" ]
+  "groups" : [ "proboundmod", "alchemist", "moreastuff" ]
 }

@@ -3,5 +3,5 @@
     { "item" : "diamondore", "count" : 1 }
   ],
   "output" : { "item" : "diamond_powder", "count" : 2 },
-  "groups" : [ "gemcrafting" ]
+  "groups" : [ "proboundmod", "runecrafter", "gemcrafting" ]
 }

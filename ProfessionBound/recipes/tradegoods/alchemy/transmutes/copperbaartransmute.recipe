@@ -8,5 +8,5 @@
     "item" : "copperbar",
     "count" : 2
   },
-  "groups" : [ "transmutes" ]
+  "groups" : [ "proboundmod", "alchemist", "transmutes" ]
 }

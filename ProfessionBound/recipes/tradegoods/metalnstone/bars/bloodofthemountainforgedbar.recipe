@@ -9,5 +9,5 @@
 	{ "item" : "lightningrune", "count" : 1 }
   ],
   "output" : { "item" : "bloodofthemountainforgedbar", "count" : 1 },
-  "groups" : [ "stonefurnace", "all" ]
+  "groups" : [ "proboundmod", "stonefurnace", "all" ]
 }

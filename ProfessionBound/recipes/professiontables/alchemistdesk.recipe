@@ -6,5 +6,5 @@
 	{ "item" : "money", "count" : 1500 }
   ],
   "output" : { "item" : "AlchemistDesk", "count" : 1 },
-  "groups" : [ "proboundmod", "woodencraftingtable1", "other" ]
+  "groups" : [ "proboundmod", "alchemist", "plain", "objects" ]
 }

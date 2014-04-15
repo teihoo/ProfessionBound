@@ -3,5 +3,5 @@
     { "item" : "wheat", "count" : 6 }
   ],
   "output" : { "item" : "simple_flour", "count" : 3 },
-  "groups" : [ "cookingother", "mortargrinding" ]
+  "groups" : [ "proboundmod", "cookingother", "proboundmod", "alchemist", "mortargrinding" ]
 }

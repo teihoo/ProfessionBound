@@ -5,5 +5,5 @@
     { "item" : "smallemptyflask", "count" : 1 }
   ],
   "output" : { "item" : "orange-dye", "count" : 1 },
-  "groups" : [ "dyes" ]
+  "groups" : [ "proboundmod", "alchemist", "dyes" ]
 }

@@ -8,5 +8,5 @@
 	{ "item" : "large_Topaz", "count" : 1 }
   ],
   "output" : { "item" : "prismatic_rainbow_Gem", "count" : 1 },
-  "groups" : [ "gemupgrade" ]
+  "groups" : [ "proboundmod", "runecrafter", "gemupgrade" ]
 }

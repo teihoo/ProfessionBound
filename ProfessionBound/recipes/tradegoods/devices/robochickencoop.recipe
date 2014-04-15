@@ -4,5 +4,5 @@
 		   { "item" : "copper_screws", "count" : 1 }
 	],
 "output" : { "item" : "robochickencoop", "count" : 1 },
-  "groups" : [ "gadgets" ]
+  "groups" : [ "proboundmod", "engineer", "gadgets" ]
 }

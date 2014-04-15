@@ -7,5 +7,5 @@
 	{ "item" : "windrune", "count" : 1 }
   ],
   "output" : { "item" : "destructionrune", "count" : 3 },
-  "groups" : [ "runecrafting" ]
+  "groups" : [ "proboundmod", "runecrafter", "runecrafting" ]
 }

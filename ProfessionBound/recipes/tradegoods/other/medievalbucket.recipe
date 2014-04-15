@@ -4,5 +4,5 @@
 	{ "item" : "steelbar", "count" : 1 }
   ],
   "output" : { "item" : "medievalbucket", "count" : 1 },
-  "groups" : [ "craftingtable", "objects", "all" ]
+  "groups" : [ "proboundmod", "craftingtable", "objects", "all" ]
 }
