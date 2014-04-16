@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "silkcloth", "count" : 2 }
+    { "item" : "silk_cloth", "count" : 2 }
   ],
   "output" : { "item" : "silkthread", "count" : 5 },
   "groups" : [ "proboundmod", "proboundmod", "spinningwheel", "morecloth" ]
