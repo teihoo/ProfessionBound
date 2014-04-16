@@ -1,8 +1,7 @@
 {
   "input" : [
-    { "item" : "steelbar", "count" : 1 },
-    { "item" : "money", "count" : 250 }
+    { "item" : "proboundtoken", "count" : 1 }
   ],
   "output" : { "item" : "grassfireworkitem", "count" : 3 },
-  "groups" : [ "proboundmod", "consumables", "plain" ]
+  "groups" : [ "proboundmod", "proboundstation" ]
 }
