@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "small_Fluorite", "count" : 3 }
+    { "item" : "small_fluorite", "count" : 3 }
   ],
   "output" : { "item" : "medium_Fluorite", "count" : 1 },
   "groups" : [ "proboundmod", "runecrafter", "gemupgrade" ]

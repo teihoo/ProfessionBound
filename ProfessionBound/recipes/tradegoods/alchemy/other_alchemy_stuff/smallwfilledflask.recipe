@@ -1,8 +1,7 @@
 {
   "input" : [
     { "item" : "smallemptyflask", "count" : 1 },
-    { "item" : "waterrune", "count" : 1 },
-    { "item" : "woodencork", "count" : 1 }
+    { "item" : "waterrune", "count" : 1 }
   ],
   "output" : { "item" : "smallwfilledflask", "count" : 1 },
   "groups" : [ "proboundmod", "alchemist", "moreastuff" ]

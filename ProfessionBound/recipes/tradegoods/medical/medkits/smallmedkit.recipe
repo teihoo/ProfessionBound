@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "bolt_of_wool_cloth", "count" : 1 },
 	{ "item" : "linenbandage", "count" : 1 },
-	{ "item" : "minorhealthpotion", "count" : 1 }
+	{ "item" : "minorhealingpotion", "count" : 1 }
   ],
   "output" : {
     "item" : "smallmedkit",

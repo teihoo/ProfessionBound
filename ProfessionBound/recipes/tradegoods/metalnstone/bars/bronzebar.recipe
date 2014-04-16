@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "copperbar", "count" : 1 },
-	{ "item" : "tinbar", "count" : 1 }
+	{ "item" : "tin_bar", "count" : 1 }
   ],
   "output" : { "item" : "bronze_bar", "count" : 2 },
   "groups" : [ "proboundmod", "stonefurnace", "all" ]

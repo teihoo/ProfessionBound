@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "small_Emerald", "count" : 3 }
+    { "item" : "small_emerald", "count" : 3 }
   ],
   "output" : { "item" : "medium_Emerald", "count" : 1 },
   "groups" : [ "proboundmod", "runecrafter", "gemupgrade" ]

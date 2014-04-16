@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "small_Amethyst", "count" : 3 }
+    { "item" : "small_amethyst", "count" : 3 }
   ],
   "output" : { "item" : "medium_Amethyst", "count" : 1 },
   "groups" : [ "proboundmod", "runecrafter", "gemupgrade" ]

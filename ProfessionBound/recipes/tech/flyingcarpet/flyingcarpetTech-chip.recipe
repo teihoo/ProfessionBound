@@ -1,10 +1,16 @@
 {
-  "input" : [ ],
+  "input" : [
+    { "item" : "boltofdawnstarcloth", "count" : 12 },
+	{ "item" : "dawnstarthread", "count" : 5 },
+	{ "item" : "windrune", "count" : 4 },
+	{ "item" : "energyrune", "count" : 4 },
+	{ "item" : "yellowpowder", "count" : 2 }
+  ],
   "output" : {
     "item" : "flyingcarpetTech-chip",
     "count" : 1
   },
-  "groups" : [ "proboundmod", "plain", "consumables", "all" ]
+  "groups" : [ "proboundmod", "spinningwheel", "all" ]
 }
 
 

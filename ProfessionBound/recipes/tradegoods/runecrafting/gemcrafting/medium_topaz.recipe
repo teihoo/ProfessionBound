@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "small_Topaz", "count" : 3 }
+    { "item" : "small_topaz", "count" : 3 }
   ],
   "output" : { "item" : "medium_Topaz", "count" : 1 },
   "groups" : [ "proboundmod", "runecrafter", "gemupgrade" ]
