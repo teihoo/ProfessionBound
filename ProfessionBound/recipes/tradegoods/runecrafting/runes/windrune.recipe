@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "destructionrune", "count" : 1 },
+	{ "item" : "arcanerune", "count" : 1 },
+	{ "item" : "liferune", "count" : 1 },
+	{ "item" : "windrune", "count" : 3 }
+  ],
+  "output" : { "item" : "windrune", "count" : 3 },
+  "groups" : [ "proboundmod", "runecrafter", "runecrafting" ]
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "yellow-dye", "count" : 1 },
+	{ "item" : "orange-dye", "count" : 1 },
+    { "item" : "smallemptyflask", "count" : 1 }
+  ],
+  "output" : { "item" : "bleach", "count" : 1 },
+  "groups" : [ "proboundmod", "alchemist", "dyes" ]
+}

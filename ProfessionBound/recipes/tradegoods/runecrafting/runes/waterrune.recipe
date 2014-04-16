@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "arcanerune", "count" : 1 },
+	{ "item" : "waterrune", "count" : 1 },
+	{ "item" : "earthrune", "count" : 1 }
+  ],
+  "output" : { "item" : "waterrune", "count" : 3 },
+  "groups" : [ "proboundmod", "runecrafter", "runecrafting" ]
+}

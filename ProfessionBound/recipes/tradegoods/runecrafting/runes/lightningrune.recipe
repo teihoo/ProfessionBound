@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "water", "count" : 1 },
+	{ "item" : "wind", "count" : 1 }
+  ],
+  "output" : { "item" : "lightningrune", "count" : 3 },
+  "groups" : [ "proboundmod", "runecrafter", "runecrafting" ]
+}

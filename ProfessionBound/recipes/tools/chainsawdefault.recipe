@@ -7,5 +7,5 @@
 	{ "item" : "copper_gizmo_gears", "count" : 3 }
   ],
   "output" : { "item" : "chainsawdefault", "count" : 1 },
-  "groups" : [ "proboundmod", "engineer", "gadgets" ]
+  "groups" : [ "proboundmod", "farmer", "farmingtools" ]
 }
